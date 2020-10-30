@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola i am Ayush A learner,programmer and a developer 👋
 
 <!--
 **Ayush7614/Ayush7614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
