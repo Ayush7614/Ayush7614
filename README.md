@@ -17,7 +17,8 @@ Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 
 [![Ayush github stats](https://github-readme-stats.vercel.app/api?username=Ayush7614)](https://github.com/Ayush7614/github-readme-stats)
 
-![Hi,I'm a Web Deeloper,App developer, Technical Content Writer and Content Writer Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Hi,I'm a Web Deeloper,App developer, Technical Content Writer and Content Writer Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌]
+https://www.vectorstock.com/royalty-free-vector/eat-sleep-code-repeat-saying-t-shirt-for-coder-vector-31386255
 
 
 
