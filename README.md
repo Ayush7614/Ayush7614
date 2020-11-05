@@ -19,6 +19,8 @@ Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 - ⚡ Fun fact: Listening music.
 
 [![Ayush github stats](https://github-readme-stats.vercel.app/api?username=Ayush7614)](https://github.com/Ayush7614/github-readme-stats)
+![Ayush github stats](https://github-readme-stats.vercel.app/api?username=Ayush7614&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush7614)](https://github.com/Ayush7614/github-readme-stats)
 
