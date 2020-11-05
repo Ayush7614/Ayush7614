@@ -1,3 +1,6 @@
+(https://github.com/Ayush7614/Ayush7614/blob/main/Red%20and%20White%20Quotes%20Instagram%20Post.png)
+
+
 ### Hi there 👋, my name is Ayush
 Hola, i am Ayush A learner,programmer and a developer 👋
 I am technology enthuist coding and development is love
@@ -17,7 +20,6 @@ Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 
 [![Ayush github stats](https://github-readme-stats.vercel.app/api?username=Ayush7614)](https://github.com/Ayush7614/github-readme-stats)
 
-![Hi,I'm a Web Developer,App developer, Technical Content Writer and Content Writer Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 
