@@ -17,8 +17,7 @@ Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 
 [![Ayush github stats](https://github-readme-stats.vercel.app/api?username=Ayush7614)](https://github.com/Ayush7614/github-readme-stats)
 
-https://www.istockphoto.com/video/programming-source-code-abstract-background-gm1046965704-280080519?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_video_sponsored&referrer_url=https%253A%2F%2Fpixabay.com%2Fvideos%2Fsearch%2Fcoding%252520videos%2F&utm_term=coding%2520videos
-
+https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
 
 
 You can find me on this social media platforms
