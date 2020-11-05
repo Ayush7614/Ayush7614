@@ -1,4 +1,4 @@
-(https://github.com/Ayush7614/Ayush7614/blob/main/Red%20and%20White%20Quotes%20Instagram%20Post.png)
+![Design and Development](https://github.com/Ayush7614/Ayush7614/blob/main/Red%20and%20White%20Quotes%20Instagram%20Post.png)
 
 
 ### Hi there 👋, my name is Ayush
