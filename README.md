@@ -22,7 +22,7 @@ Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush7614)](https://github.com/Ayush7614/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayush7614)](https://github.com/Ayush7614/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Ayush7614/github-readme-stats)
 
 
 
