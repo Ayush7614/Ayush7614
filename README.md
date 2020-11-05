@@ -25,7 +25,7 @@ Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Ayush7614/github-readme-stats)
 
-[![Visitors Count](https://github-readme-stats.vercel.app/api/visitors-count/?username=Ayush7614)](https://github.com/Ayush7614/github-readme-stats)
+[![Visitors Cnt](https://github-readme-stats.vercel.app/api/visitors-cnt/?username=Ayush7614)](https://github.com/Ayush7614/github-readme-stats)
 
 
 
