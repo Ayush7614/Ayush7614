@@ -9,3 +9,6 @@ Hi,I'm a Web Developer,App developer, Technical Content Writer and Content Write
 - 📫 How to reach me Any of the social media platform
 - ⚡ Fun fact: Listening music.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ayush7614)](https://github.com/anuraghazra/github-readme-stats)
+
+
