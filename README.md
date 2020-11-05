@@ -10,5 +10,6 @@ Hi,I'm a Web Developer,App developer, Technical Content Writer and Content Write
 - ⚡ Fun fact: Listening music.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ayush7614)](https://github.com/anuraghazra/github-readme-stats)
+https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
 
 
