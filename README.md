@@ -35,7 +35,6 @@ Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ayush7614)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayush-kumar-984443191/)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ayush_msdian/)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ayush7614.github.io/aboutayush.github.io/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stopstalk.svg' alt='stopstalk' height='40'>](https://www.stopstalk.com/user/profile/ayushknj3)         
 
 You can find me on this social media platforms
 
