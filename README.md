@@ -28,6 +28,13 @@ Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 
 
 
+Languages and tools
+
+
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nodejs.svg' alt='nodejs' height='40'>](https://nodejs.org/en/)
+
+
+
 
 
 
