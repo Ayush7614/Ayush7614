@@ -17,7 +17,7 @@ Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 - ⚡ Fun fact: Listening music.
 
 <a href="https://github.com/Ayush7614/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/Ayush614/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/Ayush7614"><img src="https://img.shields.io/github/forks/Ayush7614" alt="Forks Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
