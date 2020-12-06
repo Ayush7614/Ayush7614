@@ -4,12 +4,12 @@
 
 
 ### ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-###Hola, i am Ayush A learner,programmer and a developer 👋
-I am technology enthuist coding and development is love
+### i am Ayush A learner,programmer and a developer 👋
+### I am technology enthuist coding and development is love
 
 
 #### Hi,I'm a Web Developer,App developer, Technical Content Writer and Content Writer Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
-Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
+### Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 
 
 -Talking about Personal Stuffs:
@@ -18,7 +18,8 @@ Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 - 👯 Part of developer community and collobrate to new thing and on github.
 - 💬  Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me Any of the social media platform
-- ⚡ Fun fact: Listening music.
+- ⚡ Fun fact: Beside's programming, I enjoy eating food, travelling and listening music.
+
 
 
 
