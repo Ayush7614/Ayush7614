@@ -4,8 +4,7 @@
 
 
 ### ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-, my name is Ayush
-Hola, i am Ayush A learner,programmer and a developer 👋
+###Hola, i am Ayush A learner,programmer and a developer 👋
 I am technology enthuist coding and development is love
 
 
