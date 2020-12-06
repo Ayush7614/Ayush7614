@@ -17,11 +17,11 @@ Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 - ⚡ Fun fact: Listening music.
 
 <a href="https://github.com/Ayush7614/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/Ayush614/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/Ayush7614"><img src="https://img.shields.io/github/forks/Ayush7614" alt="Forks Badge"/></a>
+<a href="https://github.com/Ayush7614/Aysuh7614"><img src="https://img.shields.io/github/forks/Ayush7614/Aysuh7614" alt="Forks Badge"/></a>
 <a href="https://github.com/Ayush7614/Aysuh7614/pulls"><img src="https://img.shields.io/github/issues-pr/Ayush7614/Ayush7614" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/Aysuh7614/Aysuh7614/issues"><img src="https://img.shields.io/github/issues/Aysuh7614/Aysuh7614" alt="Issues Badge"/></a>
+<a href="https://github.com/Aysuh7614/Aysuh7614/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Aysuh7614/Aysuh7614?color=2b9348"></a>
+<a href="https://github.com/Aysuh7614/Aysuh7614/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Aysuh7614/Aysuh7614?color=2b9348" alt="License Badge"/></a>
 
 
 
