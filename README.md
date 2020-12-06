@@ -8,7 +8,7 @@
 ### I am technology enthuist coding and development is love
 
 
-#### Hi,I'm a Web Developer,App developer, Technical Content Writer and Content Writer Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+#### I'm a Web Developer,App developer, Technical Content Writer and Content Writer Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 ### Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 
 
