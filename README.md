@@ -1,5 +1,3 @@
-![Design and Development](https://github.com/Ayush7614/Ayush7614/blob/main/Square%20Video%20Post%201080x1080%20px.mp4)
-
 
 ### Hi there 👋, my name is Ayush
 Hola, i am Ayush A learner,programmer and a developer 👋
