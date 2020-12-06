@@ -26,7 +26,7 @@
 ![Ayush github stats](https://github-readme-stats.vercel.app/api?username=Ayush7614&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush7614)](https://github.com/Ayush7614/github-repo-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush7614)](https://github.com/Ayush7614)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Ayush7614/github-readme-stats)
 
