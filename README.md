@@ -16,7 +16,7 @@ Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 - 📫 How to reach me Any of the social media platform
 - ⚡ Fun fact: Listening music.
 
-<a href="https://github.com/Ayush7614/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/Ayush614/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/Ayush7614?tab=repositories"><img src="https://github.com/Ayush7614?tab=repositories" alt="Stars Badge"/></a>
 <a href="https://github.com/Ayush7614?tab=repositories"><img src="https://img.shields.io/github/forks/Ayush7614/Ayush7614" alt="Forks Badge"/></a>
 <a href="https://github.com/Ayush7614/Aysuh7614/pulls"><img src="https://img.shields.io/github/issues-pr/Ayush7614/Ayush7614" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Aysuh7614/Aysuh7614/issues"><img src="https://img.shields.io/github/issues/Aysuh7614/Aysuh7614" alt="Issues Badge"/></a>
