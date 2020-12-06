@@ -16,8 +16,7 @@ Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 - 📫 How to reach me Any of the social media platform
 - ⚡ Fun fact: Listening music.
 
-[![Visits Badge](https://github.pufler.dev/visits/Ayush7614/git-badges)](https://badges.pufler.dev)
-
+https://camo.githubusercontent.com/9dc168e6d7f9a0969f3581bec3693452918f071e55ccd20ab9d47fba44dd9c16/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736b796c616773266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
 
 
 ![Ayush github stats](https://github-readme-stats.vercel.app/api?username=Ayush7614&show_icons=true&theme=radical)
