@@ -1,4 +1,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=Ayush7614.Ayush7614)
+
 
 ### Hi there 👋, my name is Ayush
 Hola, i am Ayush A learner,programmer and a developer 👋
