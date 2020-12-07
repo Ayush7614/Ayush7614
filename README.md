@@ -3,7 +3,7 @@
   ![](https://visitor-badge.glitch.me/badge?page_id=Ayush7614.Ayush7614)
 
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### i am Ayush A learner,programmer and a developer 👋
 ### I am technology enthuist coding and development is love
 
