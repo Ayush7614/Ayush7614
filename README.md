@@ -4,7 +4,8 @@
 
 
 ### Hello Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### i am Ayush A learner,programmer and a developer 👋
+<img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/ai.gif" width="590px" height="60px">
+###  A learner,programmer and a developer 👋
 ### I am technology enthuist coding and development is love
 
 
