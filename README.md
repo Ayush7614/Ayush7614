@@ -9,17 +9,17 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ayush7614)](https://github.com/Ayush7614/github-profile-trophy)
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
+  <a href="https://github.com/Ayush7614/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/Ayush7614/github-profile-trophy"/> 
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
+  <a href="https://github.com/Ayush7614/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/Ayush7614/github-profile-trophy"/> 
   </a>  
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
+  <a href="https://github.com/Ayush7614/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/Ayush7614/github-profile-trophy"/> 
   </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
+    <a href="https://github.com/Ayush7614/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/Ayush7614/github-profile-trophy"/> 
   </a>
 </p>
 <p align="center">
