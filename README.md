@@ -37,7 +37,7 @@
 - 👯 Part of developer community and collobrate to new thing and on github.
 - 💬  Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me Any of the social media platform
-- 💪 Want motivation to code? Head over to my this github repo [(https://github.com/Ayush7614/50Days50Projects)]. You're in for a surprise 😉..
+- 💪 Want motivation to code? Head over to my this [github(https://github.com/Ayush7614/50Days50Projects)] You're in for a surprise 😉..
 - ⚡ Fun fact: Beside's programming, I enjoy eating food, travelling and listening music.
 
 
