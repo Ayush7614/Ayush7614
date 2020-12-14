@@ -7,7 +7,8 @@
 ###  A learner,programmer and a developer 👋
 ### I am technology enthuist coding and development is love
 
-[!trophy](https://github-profile-trophy.vercel.app/?username=Ayush7614)](https://github.com/Ayush7614/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">
   <a href="https://github.com/Ayush7614/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/Ayush7614/github-profile-trophy"/> 
