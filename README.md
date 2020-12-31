@@ -55,7 +55,6 @@
 
 <div align="center">
 
-[![Ayush7614 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayush7614)](https://github.com/Ayush7614/github-readme-stats)
 
 
 
