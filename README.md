@@ -56,7 +56,7 @@
 <div align="center">
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham82&" alt="pratham82" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush7614&" alt="Ayush7614" /></p>
 </br>
 </br>
 
