@@ -3,7 +3,6 @@
   
   ![](https://visitor-badge.glitch.me/badge?page_id=Ayush7614.Ayush7614)
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush7614" alt="Ayush7614" /> </p>
 
   
 * Talking about Personal Stuffs:
