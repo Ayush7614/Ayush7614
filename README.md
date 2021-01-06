@@ -1,4 +1,6 @@
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+
+<img align="right" alt="GIF" src="htts://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
   ![](https://visitor-badge.glitch.me/badge?page_id=Ayush7614.Ayush7614)
 
@@ -7,7 +9,6 @@
 ###  A learner,programmer and a developer 👋
 ### I am technology enthuist coding and development is love
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayush7614)](https://github.com/Ayush7614/github-profile-trophy)
 
 <p align="center">
   <a href="https://github.com/Ayush7614/github-profile-trophy/issues">
