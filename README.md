@@ -1,31 +1,32 @@
   <h1 align="center">Hello Folks<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ayush Kumar</h1>
-  <h3 align="center">Full Stack Developer 👨‍💻 || Android Developer || MERN Developer ⚛️ || Pythoneer 🐍</h3>
+  <h3 align="center">Full Stack Developer 👨‍💻 || Android Developer || MERN Developer ⚛️ || Pythoneer 🐍</h3>\
+  
+  -Talking about Personal Stuffs:
+- 🔭 I’m currently working on intern as GeeksforGeeks,Coding Ninjas and LDL.
+
+- 🌱 I’m currently learning MERN Stack,Full Stack and Android Development.
+
+- 🌱Currently i am doing 100 days of code.
+
+- 👯 Part of developer community and collobrate to new thing and on github.
+
+- 💬  Ask me about anything , Would love to answer them.✌
+
+- 📫 How to reach me Any of the social media platform
+
+- 💪 Want motivation to code? Head over to my this [[github repo](https://github.com/Ayush7614/50Days50Projects)] You're in for a surprise 😉..
+
+- ⚡ Fun fact: Beside's programming, I enjoy eating food, travelling and listening music.
+
+
 
 
   
   ![](https://visitor-badge.glitch.me/badge?page_id=Ayush7614.Ayush7614)
 
 
-### Hello Folks I am Ayush<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-###  A learner,programmer and a developer 👋
-### I am technology enthuist coding and development is love
 
 
-<p align="center">
-  <a href="https://github.com/Ayush7614/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/Ayush7614/github-profile-trophy"/> 
-  </a>
-  <a href="https://github.com/Ayush7614/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/Ayush7614/github-profile-trophy"/> 
-  </a>  
-  <a href="https://github.com/Ayush7614/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/Ayush7614/github-profile-trophy"/> 
-  </a>
-    <a href="https://github.com/Ayush7614/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/Ayush7614/github-profile-trophy"/> 
-  </a>
-</p>
-<p align="center">
 
 
 
