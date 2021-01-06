@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+  <h1 align="center">Hello Folks<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ayush Kumar</h1>
 
-<img align="right" alt="GIF" src="htts://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="htts://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
   ![](https://visitor-badge.glitch.me/badge?page_id=Ayush7614.Ayush7614)
 
