@@ -14,6 +14,10 @@
 
 - 🌱Currently i am doing **100 days of code**.
 
+- 👯 I’m looking to collaborate on [Hello-World-](https://github.com/Ayush7614/Hello-World-)
+
+- 🤔 I’m looking for help with [Hackerank-DS-ALGO-SOLUTIONS](https://github.com/Ayush7614/Hackerank-DS-ALGO-SOLUTIONS)
+
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/Ayush7614?tab=repositories)
 
 - 👯 Part of developer community and collobrate to new thing and on **github**.
