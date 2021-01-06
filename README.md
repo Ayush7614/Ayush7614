@@ -1,6 +1,9 @@
   <h1 align="center">Hello Folks<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ayush Kumar</h1>
   <h3 align="center">Full Stack Developer 👨‍💻 || Android Developer || MERN Developer ⚛️ || Pythoneer 🐍</h3>
   
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush7614" alt="Ayush7614" /> </p>
+
+  
 * Talking about Personal Stuffs:
 
 - 🔭 I’m currently working on intern as GeeksforGeeks,Coding Ninjas and LDL.
@@ -36,15 +39,6 @@
 ### Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
 
 
--Talking about Personal Stuffs:
-- 🔭 I’m currently working on intern as GeeksforGeeks,Coding Ninjas and LDL.
-- 🌱 I’m currently learning MERN Stack,Full Stack and Android Development.
-- 🌱Currently i am doing 100 days of code.
-- 👯 Part of developer community and collobrate to new thing and on github.
-- 💬  Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me Any of the social media platform
-- 💪 Want motivation to code? Head over to my this [[github repo](https://github.com/Ayush7614/50Days50Projects)] You're in for a surprise 😉..
-- ⚡ Fun fact: Beside's programming, I enjoy eating food, travelling and listening music.
 
 
 
