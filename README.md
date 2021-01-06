@@ -1,45 +1,30 @@
   <h1 align="center">Hello Folks<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ayush Kumar</h1>
   <h3 align="center">Full Stack Developer 👨‍💻 || Android Developer || MERN Developer ⚛️ || Pythoneer 🐍</h3>
   
+  ![](https://visitor-badge.glitch.me/badge?page_id=Ayush7614.Ayush7614)
+
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush7614" alt="Ayush7614" /> </p>
 
   
 * Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on intern as GeeksforGeeks,Coding Ninjas and LDL.
+- 🔭 I’m currently working on **VerlyJS** **GatsbayJS**.
 
-- 🌱 I’m currently learning MERN Stack,Full Stack and Android Development.
+- 🌱 I’m currently learning **MERN Stack**,**Full Stack** and **Android Development**.
 
-- 🌱Currently i am doing 100 days of code.
+- 🌱Currently i am doing **100 days of code**.
 
-- 👯 Part of developer community and collobrate to new thing and on github.
+- 👨‍💻 Some of my projects are available at my [Github](https://github.com/Ayush7614?tab=repositories)
 
-- 💬  Ask me about anything , Would love to answer them.✌
+- 👯 Part of developer community and collobrate to new thing and on **github**.
 
-- 📫 How to reach me Any of the social media platform
+- 💬  Ask me about anything , **Would love to answer them**.✌
 
-- 💪 Want motivation to code? Head over to my this [[github repo](https://github.com/Ayush7614/50Days50Projects)] You're in for a surprise 😉..
+- 📫 How to reach me **ayushknj3@gmail.com**
+
+- 💪 Want motivation to code? Head over to my this **[[github repo](https://github.com/Ayush7614/50Days50Projects)] You're in for a surprise** 😉..
 
 - ⚡ Fun fact: Beside's programming, I enjoy eating food, travelling and listening music.
-
-
-
-
-  
-  ![](https://visitor-badge.glitch.me/badge?page_id=Ayush7614.Ayush7614)
-
-
-
-
-
-
-
-
-#### I'm a Web Developer,App developer, Technical Content Writer and Content Writer Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
-### Skills: 🌱MERN Stack/Full Stack/ Android Development/Problem solving
-
-
-
 
 
 <div align="center">
@@ -57,15 +42,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush7614&" alt="Ayush7614" /></p>
 </br>
 </br>
-
-
-
-
-
-
-
-
-
 
 ### Connect with me:
 
