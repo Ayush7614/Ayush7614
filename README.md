@@ -29,7 +29,7 @@
 
 <div align="center">
  
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ayush7614&show_icons=true&theme=gotham" alt="Ayush7614" />
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ayush7614&show_icons=true&theme=blue" alt="Ayush7614" />
 
  
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush7614&layout=compact&theme=radical" width="350" height="250" ></a>
