@@ -28,6 +28,10 @@
 
 
 <div align="center">
+  <a href="https://github.com/Ayush7614/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ayush7614&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ayush github stats" />
+</a>
+
 
 <div align="center">
 
