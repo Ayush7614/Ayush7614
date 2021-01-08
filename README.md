@@ -24,7 +24,7 @@
 
 - 💪 Want motivation to code? Head over to my this **[[github repo](https://github.com/Ayush7614/50Days50Projects)] You're in for a surprise** 😉..
 
-- ⚡ Fun fact: Beside's programming, I enjoy eating food, travelling and listening music.
+- ⚡ Fun fact: Beside's programming, I enjoy eating food, travelling and listening music and someone made me romantic 
 
 
 <div align="center">
