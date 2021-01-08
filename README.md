@@ -34,13 +34,6 @@
  <a href="https://github.com/Ayush7614/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ayush7614&layout=compact&theme=material-palenight" />
-</a>
-<a href="https://ayush7614.github.io/ayushportfolio.github.io/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Ayush7614&repo=ayush7614.github.io&theme=material-palenight" />
-</a>
-
-
 
 <div align="center">
 
