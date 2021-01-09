@@ -32,7 +32,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ayush7614&show_icons=true&theme=gotham" alt="Ayush7614" />
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush7614&" alt="Ayush7614" /></p>
+<p img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush7614&" alt="Ayush7614" /></p>
 </br>
 </br>
 
