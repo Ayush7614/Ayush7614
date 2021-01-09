@@ -27,15 +27,9 @@
 - ⚡ Fun fact: Beside's programming, I enjoy eating food, travelling and listening music and someone made me romantic 
 
 
-<div align="center">
-  <a href="https://github.com/Ayush7614/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ayush7614&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ayush github stats" />
-</a>
- <a href="https://github.com/Ayush7614/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ayush7614&layout=compact&theme=material-palenight" />
+📈 My GitHub Stats
 
-<div align="center">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ayush7614&show_icons=true&theme=gotham" alt="Ayush7614" />
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush7614&" alt="Ayush7614" /></p>
