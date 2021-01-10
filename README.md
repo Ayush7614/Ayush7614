@@ -6,6 +6,13 @@
   <img src="https://profile-counter.glitch.me/Ayush7614/count.svg" />
 </p>
 
+<p>
+<a href="https://www.linkedin.com/in/tejas-tapas-971847171/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+<a href="https://www.instagram.com/tapastejas/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+ </a> 
+</p>
+
+
   
 * Talking about Personal Stuffs:
 
