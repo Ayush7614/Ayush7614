@@ -52,9 +52,11 @@
  
 ![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Ayush7614&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
-<a href="https://Ayush7614.github.io">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush7614&count_private=true" align="center"/>
-</a>
+<h2 align="center">🐦 Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ayush7614&layout=compact&hide=html&theme=jolly" alt="Ayush7614" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 <a href="https://Ayush7614.github.io">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush7614&layout=compact" align="center"/>
 </a>
