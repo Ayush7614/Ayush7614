@@ -54,12 +54,12 @@
 
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ayush7614&layout=compact&hide=html&theme=jolly" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Ayush7614&layout=compact&hide=html&theme=jolly" alt="Ayush7614" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">🐦 Top Languages </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush7614&layout=compact&hide=html&theme=jolly" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush7614&layout=compact&hide=html&theme=jolly" alt="Ayush7614" />&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 
 
