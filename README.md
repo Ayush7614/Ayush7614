@@ -29,9 +29,9 @@
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/Ayush7614?tab=repositories)
 
-- 👯 Part of developer community and collobrate to new thing and on **github**.
+- 👯 Part of the developer community and likes to collaborate on new things and on **GitHub**.
 
-- 💬  Ask me about anything , **Would love to answer them**.✌
+- 💬  Ask me about anything , **Would love to answer them**.
 
 - 📫 How to reach me **ayushknj3@gmail.com**
 
