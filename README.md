@@ -31,7 +31,7 @@
 
 - 👯 Part of the developer community and likes to collaborate on new things and on **GitHub**.
 
-- 💬  Ask me about anything , **Would love to answer them**.
+- 💬  Ask me about anything , **Would love to answer them**.✌
 
 - 📫 How to reach me **ayushknj3@gmail.com**
 
