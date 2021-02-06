@@ -74,6 +74,10 @@
   </a>
 </p>
 
+## [Ayush Kumar](http://vedantkhairnar.ml/)
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+![VisitorCount](https://profile-counter.glitch.me/Ayush7614/count.svg)
+
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
