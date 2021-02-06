@@ -74,7 +74,7 @@
   </a>
 </p>
 
-## [Ayush Kumar](http://vedantkhairnar.ml/)
+## [Ayush Kumar](https://ayush7614.github.io/Portfolio/)
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 ![VisitorCount](https://profile-counter.glitch.me/Ayush7614/count.svg)
 
