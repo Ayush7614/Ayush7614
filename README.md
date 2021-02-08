@@ -54,7 +54,8 @@
 
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=Ayush7614&hide=stars&theme=chartreuse-dark&count_private=true&show_icons=true)
+![Ayush github stats](https://github-readme-stats.vercel.app/api?username=Ayush7614&hide=stars&theme=chartreuse-dark&count_private=true&show_icons=true)<br>
+
 </p>
 
 <h2 align="center">🐦 Top Languages </h2>
