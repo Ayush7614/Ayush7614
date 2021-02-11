@@ -32,10 +32,13 @@
  
 
  # Stats:
+ <p align="center">
  
 ![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Ayush7614&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 ![Ayush github stats](https://github-readme-stats.vercel.app/api?username=Ayush7614&hide=stars&theme=chartreuse-dark&count_private=true&show_icons=true)<br>
+
+</p>
 
 
 <h2 align="center">🐦 Top Languages </h2>
