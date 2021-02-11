@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+
+<h2 align="center"> 👨‍💻 Who am I?</h2>
+<p align="center">
+  <samp>
+I am a Sophomore Year Student at ABESEC IST currently undertaking my Bachelors in Electronics and Communication Engineering. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies. 
+  </samp><br><br>
+  <samp>
+  <img src="https://komarev.com/ghpvc/?username=Ayush7614" alt="Ayush7614" /> 
+</p>
+
 <h2 align="center"> 🔭 Technology Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -26,8 +37,8 @@
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/harshcasper"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/harsh_casper"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/ayush-kumar-%F0%9F%87%AE%F0%9F%87%B3-984443191/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/AyushKu38757918"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ayushknj3@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ayush_msdian/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://Ayush7614.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
