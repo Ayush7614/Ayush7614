@@ -1,11 +1,3 @@
-  <h1 align="center">Hello Folks<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ayush Kumar</h1>
-  <h3 align="center">Full Stack Developer 👨‍💻 || Android Developer || MERN Developer ⚛️ || Pythoneer 🐍</h3
-
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/Ayush7614/count.svg" />
-</p>
-
 <h2 align="center"> 🔭 Technology Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -27,35 +19,23 @@
   <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp; 
 </p>
 
-
-  
- 
-
- # Stats:
- <p align="center">
- 
-![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Ayush7614&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-
-![Ayush github stats](https://github-readme-stats.vercel.app/api?username=Ayush7614&hide=stars&theme=chartreuse-dark&count_private=true&show_icons=true)<br>
-
+<h2 align="center">🐦 Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harshcasper&layout=compact&hide=html&theme=jolly" alt="harshcasper" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
-<h2 align="center">🐦 Top Languages </h2>
+<h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush7614&layout=compact&hide=html&theme=jolly" alt="Ayush7614" />&nbsp;&nbsp;&nbsp;&nbsp;
-</a>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-
-  </a>
+  <a target="_blank"href="https://www.linkedin.com/in/harshcasper"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/harsh_casper"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:erbeusgriffincasper@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/harshcasper/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://harshcasper.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
 <p align="center">
-
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush7614&theme=dark&hide_border=true"/>
-  </a>
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
 </p>
 
 ## [Ayush Kumar](https://ayush7614.github.io/Portfolio/)
