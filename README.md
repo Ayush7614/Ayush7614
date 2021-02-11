@@ -32,7 +32,7 @@ I am a Sophomore Year Student at ABESEC IST currently undertaking my Bachelors i
 
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ayush7614&layout=compact&hide=html&theme=jolly" alt="Ayush7614" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=manav014&layout=compact&hide=html&theme=jolly" alt="manav014" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">📫 Reach out to me on</h2>
