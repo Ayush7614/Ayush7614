@@ -55,6 +55,6 @@ I am a Sophomore Year Student at ABESEC IST currently undertaking my Bachelors i
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![ForTheBadge summer-is-coming](http://ForTheBadge.com/images/badges/summer-is-coming.svg)](http://ForTheBadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-tea.svg)](https://forthebadge.com)
 
