@@ -58,3 +58,5 @@ I am a Sophomore Year Student at ABESEC IST currently undertaking my Bachelors i
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
+![](https://activity-graph.herokuapp.com/graph?username=Ayush7614&theme=github)
+
