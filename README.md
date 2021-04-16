@@ -49,7 +49,9 @@ I am a Sophomore Year Student at ABESEC IST currently undertaking my Bachelors i
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
 </p>
 
-<align = "center">![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+<p align="center">
+![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+</p>
 
 
 ## [Ayush Kumar](https://ayush7614.github.io/Portfolio/)
