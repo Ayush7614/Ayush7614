@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 
+![Ayush7614](https://socialify.git.ci/Ayush7614/Ayush7614/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+
+
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
