@@ -50,11 +50,6 @@ I am a Sophomore Year Student at ABESEC IST currently undertaking my Bachelors i
   <a href="https://Ayush7614.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
-<p align="center">
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
-</p>
-
 
 
 ## [Ayush Kumar](https://ayush7614.github.io/Portfolio/)
