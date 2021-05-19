@@ -38,10 +38,11 @@ I am a Sophomore Year Student at ABESEC IST currently undertaking my Bachelors i
   <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp; 
 </p>
 
-<h2 align="center">🐦 Github Statistics </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ayush7614&layout=compact&hide=html&theme=jolly" alt="Ayush7614" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush7614&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayush7614 Github Stats">
+
+</div>
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
