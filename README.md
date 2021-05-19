@@ -1,5 +1,6 @@
-![Hello](Hello.gif)
-
+ <p align="center">
+     <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Ayush7614/blob/main/Hello.gif" /></a> 
+</p>
 
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 
