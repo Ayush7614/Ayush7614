@@ -4,9 +4,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 
  <p align="center">
-    <a href="https://github.com/Ayush7614/Ayush7614/blob/main/forkit.gif" /></a> 
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Ayush7614/blob/main/forkit.gif" /></a> 
 </p>
-
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
