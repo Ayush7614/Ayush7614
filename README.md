@@ -1,4 +1,8 @@
- 
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=43ffaa&size=40&width=750&height=80&lines=Hello-Everyone-I am Ayush a developer, a programmer and open source enthautic"/>
+</p>
+
 <table align="center">
     <thead align="center">
         <tr border: 1px;>
