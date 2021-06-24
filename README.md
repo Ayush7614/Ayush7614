@@ -45,12 +45,6 @@
     </tbody>        
 </table>
 
-<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
-<p align="center">
-  <a href="https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush7614&repo=Daily-Coding-DS-ALGO-Practice&theme=radical"/>
-  </a>
-</p>
 
 
 ### :zap: GitHub Stats
