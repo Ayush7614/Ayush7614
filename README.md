@@ -1,6 +1,3 @@
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff00&vCenter=true&lines=Hello-Everyone-I am Ayush a developer, a programmer and open source enthaustic welcome to my profile%3F)
-
 <table align="center">
     <thead align="center">
         <tr border: 1px;>
