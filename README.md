@@ -1,7 +1,5 @@
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=43ffaa&size=40&width=750&height=80&lines=Hello-Everyone-I am Ayush a developer, a programmer and open source enthautic"/>
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff00&vCenter=true&lines=Hello-Everyone-I am Ayush a developer, a programmer and open source enthaustic welcome to my profile%3F)
 
 <table align="center">
     <thead align="center">
