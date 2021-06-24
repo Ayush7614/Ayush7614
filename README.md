@@ -22,6 +22,30 @@
     </tbody>        
 </table>
 
+<table align="center">
+    <thead align="center">
+        <tr border: 1px;>
+            <td><b>Bundli-Frontend :octocat: <br> [Bundli, Frontend]</b></td>
+            <td><b>🌟 Stars</b></td>
+            <td><b>🍴 Forks</b></td>
+            <td><b>🐛 Issues</b></td>
+            <td><b>🔔 Open PRs</b></td>
+            <td><b>🔕 Close PRs</b></td>
+        </tr>
+     </thead>
+    <tbody>
+         <tr>
+            <td><a href="https://github.com/Ayush7614/Bundli-Frontend"</a><b>Bundli-Frontend</b></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/Ayush7614/Bundli-Frontend?style=flat&logo=github"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/Ayush7614/Bundli-Frontend?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/Ayush7614/Bundli-Frontend?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Ayush7614/Bundli-Frontend?style=flat&logo=github"/></td>
+            <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Ayush7614/Bundli-Frontend?style=flat&color=critical&logo=github"/></td>
+        </tr>
+    </tbody>        
+</table>
+
+
 ### :zap: GitHub Stats
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush7614&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br>
