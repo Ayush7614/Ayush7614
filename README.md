@@ -1,8 +1,26 @@
  
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
-|-------------|-------------------|---|---|
-| [**Daily-Coding-DS-ALGO-Practice**](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice) | [![GitHub issues](https://img.shields.io/github/issues/Ayush7614/Daily-Coding-DS-ALGO-Practice?color=green&logo=github&style=flat)](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ayush7614/Daily-Coding-DS-ALGO-Practice?style=flat&logo=github)](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ayush7614/Daily-Coding-DS-ALGO-Practice?style=flat&color=critical&logo=github)](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**Bundli-Frontend**](https://github.com/Ayush7614/Bundli-Frontend/) | [![GitHub issues](https://img.shields.io/github/issues/Ayush7614/Bundli-Frontend?color=green&logo=github&style=flat)](https://github.com/Ayush7614/Bundli-Frontendd3/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ayush7614/Bundli-Frontend?style=flat&logo=github)](https://github.com/Ayush7614/Bundli-Frontend/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Ayush7614/Bundli-Frontend?style=flat&color=critical&logo=github)](https://github.com/Ayush7614/Bundli-Frontend/pulls?q=is%3Apr+is%3Aclosed)   |
+<table align="center">
+    <thead align="center">
+        <tr border: 1px;>
+            <td><b>FAANG Preparation :octocat: <br> [Facebook, Amazon, Apple, Netflix, Google]</b></td>
+            <td><b>🌟 Stars</b></td>
+            <td><b>🍴 Forks</b></td>
+            <td><b>🐛 Issues</b></td>
+            <td><b>🔔 Open PRs</b></td>
+            <td><b>🔕 Close PRs</b></td>
+        </tr>
+     </thead>
+    <tbody>
+         <tr>
+            <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation"</a><b>The Complete FAANG Preparation</b></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
+            <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=critical&logo=github"/></td>
+        </tr>
+    </tbody>        
+</table>
 
 ### :zap: GitHub Stats
 
