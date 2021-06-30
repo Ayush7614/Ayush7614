@@ -1,5 +1,4 @@
-  <img src="https://github-hero-readme.vercel.app/api?username=Ayush7614&linkedin=ayush-kumar-🇮🇳&twitter=Ayush Kumar&description=Open Source | Web Developer | ML   
-  Enthaustic" width="100%">
+  <img src="https://github-hero-readme.vercel.app/api?username=Ayush7614&linkedin=ayush-kumar-🇮🇳&twitter=Ayush Kumar&description=Open Source | Web Developer | ML   Enthaustic" width="100%">
 
 <table align="center">
     <thead align="center">
