@@ -1,4 +1,4 @@
-  <img src="https://github-hero-readme.vercel.app/api?username=Ayush7614&linkedin=&github=&description=Open Source Contributer | Web Developer | Machine Learning Engineer" width="100%">
+  <img src="https://github-hero-readme.vercel.app/api?username=Ayush7614&description=Open Source Contributer | Web Developer | Machine Learning Engineer" width="100%">
 
 
 <table align="center">
