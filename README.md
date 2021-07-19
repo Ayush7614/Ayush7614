@@ -65,7 +65,7 @@
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-  <img src="https://github.com/Ayush7614/ayush7614/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Ayush7614/Ayush7614/blob/main/.github/workflows/snake.svg" alt="snake"></center>
 </p>
 
 <!-- https://github.com/Ayush7614/ayush7614/blob/output/github-contribution-grid-snake.gif?raw=true -->
