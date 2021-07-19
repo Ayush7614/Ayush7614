@@ -63,5 +63,9 @@
   <a href="https://Ayush7614.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/Ayush7614/ayush7614/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
-
+<!-- https://github.com/Ayush7614/ayush7614/blob/output/github-contribution-grid-snake.gif?raw=true -->
