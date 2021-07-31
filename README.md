@@ -50,7 +50,8 @@
     <a href="https://github.com/Ayush7614"><img src= "https://github.com/Ayush7614/Ayush7614/blob/output/github-contribution-grid-snake.gif"/></a> 
 </p>
 
-
+## ⚡ Reactions to my GitHub comments
+[![Source Karma badge for @Ayush7614](https://sourcekarma-og.vercel.app/api/Ayush7614/github)](https://sourcekarma.vercel.app/Ayush7614)
 
 
 
