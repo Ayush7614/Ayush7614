@@ -4,7 +4,7 @@
 
 🎓 I am Ayush Kumar, a **Full Stack Web Developer** (specializing in **React Applications and NodeJS**) and a [**Freelancer**] I am also Pursuing my Bachelor in **Electronics  & Communication Engineering** and will graduate in mid-2023.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Organizations including, **Material Kit React**, **MetaCall**, **Circuitverse**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **ReactJS**, **NodeJS**, **Django**, **Micro-Frontend Architecture** and **Backend Development**. I got started with [**Freelancing**]Some of my freelancing projects available at my Github Profile(https://github.com/Ayush7614)
+👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Organizations including, **Material Kit React**, **MetaCall**, **Circuitverse**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **ReactJS**, **NodeJS**, **Django**, **Micro-Frontend Architecture** and **Backend Development**. I got started with [**Freelancing**]Some of my freelancing projects available at my Github Profile[https://github.com/Ayush7614]
 
 ### Languages I use to talk to computer 🤔
 
