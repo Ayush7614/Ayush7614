@@ -45,6 +45,15 @@
     <img align="left" alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 
+### Projects 🌱
+
+| Name | Description | Source Code | Deployed at |
+|:----:|:------------|:----:|:-----------:|
+| Paanch-Editor | Paanch Editor is a image editor tool that is made of Javascript. It is a responsive web application where you easily edit and download the image. It contains 5 types of effect. | [Repo](https://github.com/Ayush7614/Paanch-Editor) | [Netlify](https://paanch-editor.netlify.app/
+) |
+
+
+
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/Ayush7614" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
