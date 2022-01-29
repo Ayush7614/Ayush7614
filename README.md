@@ -50,6 +50,8 @@
 | Name | Description | Source Code | Deployed at |
 |:----:|:------------|:----:|:-----------:|
 | Paanch-Editor | Paanch Editor is a image editor tool that is made of Javascript. It is a responsive web application where you easily edit and download the image. It contains 5 types of effect. | [Repo](https://github.com/Ayush7614/Paanch-Editor) | [Netlify](https://paanch-editor.netlify.app/) |
+| Score-App | It is a web app for displaying the score of two teams during any type of competition, matches, games. | [Repo](https://github.com/Ayush7614/Score-App) | [Netlify](https://score-app-1.netlify.app/) |
+
 
 
 
