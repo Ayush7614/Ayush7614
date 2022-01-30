@@ -63,6 +63,20 @@
 ### Projects 🌱
 **More Projects Coming Soon. Some of my Freelancing projects under process coming soon** **Tab tak ke liye Happy Coding**
 
+### Honors & Awards 🏅
+
+- Top 3 Contributers in KWOC(Kharagpur Winter of Code 2020 by IIT Kharagpur Open Source Community)
+- Get 5 Position in all over india in Script Winter of Code(SWOC20) 2020-21 a open source program by Script community
+- Got 17 Rank in JWOC WInter of code 2020-21 in India open source program organized by JGEC College
+- Got 81 Rank in DWOC 2020-21 Devscript winter of code a open source program organized by Devscript community
+- Got 6 Rank in IEEE DTU CrossWoc 2021 a open source program organized by Delhi Technical University
+- Selected as a scholarship recipient for SUSE Cloud Native Course by Udacity. 
+- Selected as a scholarship recipient for AWS Machine Learning Scholarship Program by AWS & Udacity. 
+- Selected as a scholarship recipient for Education Outreach program by GirlScript
+
+
+
+
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/Ayush7614" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
