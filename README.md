@@ -64,6 +64,13 @@
 **More Projects Coming Soon. Some of my Freelancing projects under process coming soon** **Tab  tak ke liye Happy Coding**
 
 ### My Experiences 🙌
+
+- Open Source Maintainer at Codeflow Organization and MetaVASP.
+
+- Working as Freelancer at Upwork and Previously intern at OneGo Lab and FTS.
+
+- Project Admin at **PSOC`21** , **HSSOC`21** 
+
 - Admin at [DevIncept Contributor Program](https://devincept.tech/join-us.html). DevIncept Contributor Program is an Open-Source program to bring students into the world of open source development. There is no restriction in technology, framework or language.  I am working as project admin. My 5 projects are selected for program guiding 500+ students and 20+ mentors from all over region about git, github and open source and how they contributed to my projects and others projects [Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend).[Daily-Coding-DS-ALGO-Practice](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice) and projects is Instatags, Botter and open source milap.
 
 - Admin at Let's Grow More Summer of Code 2021 is an Open-Source program to bring students into the world of open source development. There is no restriction in technology, framework or language.  I am working as project admin. My 1 projects are selected for program guiding 1000+ students and 10+ mentors from all over region about git, github and open source and how they contributed to my projects and others projects [Daily-Coding-DS-ALGO-Practice](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice)
@@ -71,6 +78,15 @@
 - Contributor at GirlScript Summer of Code 2021. Embraced the journey of Open Source along with the wholesome community of Girl Script. Contributed to multiple projects and still contributing.
 
 - Mentee at Script Winter of Code 2020-21. Its an open source program which embarked my journey in the world of Open Source. I contributed to various open source projects and explored the new oppurtunites of Open Source Community.
+
+- Mentee at Kharagpur Winter of Code 2020-21. Its an open source program which embarked my journey in the world of Open Source. I contributed to various open source projects and explored the new oppurtunites of Open Source Community.
+
+- Mentee at Devscript Winter of Code 2020-21. Its an open source program which embarked my journey in the world of Open Source. I contributed to various open source projects and explored the new oppurtunites of Open Source Community.
+
+- Mentee at Crosswoc Winter of Code 2020-21. Its an open source program which embarked my journey in the world of Open Source. I contributed to various open source projects and explored the new oppurtunites of Open Source Community.
+
+- Mentee at JWOC Winter of Code 2020-21. Its an open source program which embarked my journey in the world of Open Source. I contributed to various open source projects and explored the new oppurtunites of Open Source Community.
+
 
 
 ### Honors & Awards 🏅
