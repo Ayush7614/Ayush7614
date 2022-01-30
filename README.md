@@ -70,10 +70,13 @@
 - Got 17 Rank in JWOC WInter of code 2020-21 in India open source program organized by JGEC College
 - Got 81 Rank in DWOC 2020-21 Devscript winter of code a open source program organized by Devscript community
 - Got 6 Rank in IEEE DTU CrossWoc 2021 a open source program organized by Delhi Technical University
+- My Competative Programming Project gains 400 forks and 200+ On Github
+- My Frontend Project Gains 100+ forks and 100+ On Github
+- Guiding 3000+ Students and 500+ mentors in different different Open Source Programs and so on.
+- Best mentor award in Hssoc21 and Psoc21 and devicept21 a open source program in india
 - Selected as a scholarship recipient for SUSE Cloud Native Course by Udacity. 
 - Selected as a scholarship recipient for AWS Machine Learning Scholarship Program by AWS & Udacity. 
 - Selected as a scholarship recipient for Education Outreach program by GirlScript
-
 
 
 
