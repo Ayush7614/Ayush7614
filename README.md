@@ -61,7 +61,17 @@
 | Open-Source-Milap | This💥💥 repo🍕🍕 contains ✏️✏️the 💜 roadmaps 💫 🔥and🧍 meetups📗📕 of👇 👇 open source👨‍💻🚀.| [Repo](https://github.com/Ayush7614/Open-Source-Milap) | [Github](https://ayush7614.github.io/Open-Source-Milap/) |
 
 ### Projects 🌱
-**More Projects Coming Soon. Some of my Freelancing projects under process coming soon** **Tab tak ke liye Happy Coding**
+**More Projects Coming Soon. Some of my Freelancing projects under process coming soon** **Tab  tak ke liye Happy Coding**
+
+### My Experiences 🙌
+- Admin at [DevIncept Contributor Program](https://devincept.tech/join-us.html). DevIncept Contributor Program is an Open-Source program to bring students into the world of open source development. There is no restriction in technology, framework or language.  I am working as project admin. My 5 projects are selected for program guiding 500+ students and 20+ mentors from all over region about git, github and open source and how they contributed to my projects and others projects [Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend).[Daily-Coding-DS-ALGO-Practice](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice) and projects is Instatags, Botter and open source milap.
+
+- Admin at Let's Grow More Summer of Code 2021 is an Open-Source program to bring students into the world of open source development. There is no restriction in technology, framework or language.  I am working as project admin. My 1 projects are selected for program guiding 1000+ students and 10+ mentors from all over region about git, github and open source and how they contributed to my projects and others projects [Daily-Coding-DS-ALGO-Practice](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice)
+
+- Contributor at GirlScript Summer of Code 2021. Embraced the journey of Open Source along with the wholesome community of Girl Script. Contributed to multiple projects and still contributing.
+
+- Mentee at Script Winter of Code 2020-21. Its an open source program which embarked my journey in the world of Open Source. I contributed to various open source projects and explored the new oppurtunites of Open Source Community.
+
 
 ### Honors & Awards 🏅
 
