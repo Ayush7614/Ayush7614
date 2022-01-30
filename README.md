@@ -51,8 +51,9 @@
 |:----:|:------------|:----:|:-----------:|
 | Paanch-Editor | Paanch Editor is a image editor tool that is made of Javascript. It is a responsive web application where you easily edit and download the image. It contains 5 types of effect. | [Repo](https://github.com/Ayush7614/Paanch-Editor) | [Netlify](https://paanch-editor.netlify.app/) |
 | Score-App | It is a web app for displaying the score of two teams during any type of competition, matches, games. | [Repo](https://github.com/Ayush7614/Score-App) | [Netlify](https://score-app-1.netlify.app/) |
-
-
+| Developers-Ke-Jagah | Developers Ke Jagah is a place where you can find all the dev related things like frontend libraries, icons, frameworks and many more dev related things | [Repo](https://github.com/Ayush7614/Developers-Ke-Jagah) | [Vercel](https://) |
+| Foody-Moody |  | [Repo](https://github.com/Ayush7614/Foody-Moody) | [Vercel](https://foody-moody.vercel.app) |
+| Khana-Khazana |  | [Repo](https://github.com/Ayush7614/Khana-Khazana) | [Vercel](https://khana-khazana.vercel.app/) |
 
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
