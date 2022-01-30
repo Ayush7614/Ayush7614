@@ -54,8 +54,12 @@
 | Developers-Ke-Jagah | Developers Ke Jagah is a place where you can find all the dev related things like frontend libraries, icons, frameworks and many more dev related things | [Repo](https://github.com/Ayush7614/Developers-Ke-Jagah) | [Vercel](https://) |
 | Foody-Moody |  | [Repo](https://github.com/Ayush7614/Foody-Moody) | [Vercel](https://foody-moody.vercel.app) |
 | Khana-Khazana |  | [Repo](https://github.com/Ayush7614/Khana-Khazana) | [Vercel](https://khana-khazana.vercel.app/) |
-| Bundli-Frontend | Bundli-Frontend 🚩 is a repo which contains 🚀different code of frontend Development 👨‍💻🚀 | [Repo](https://github.com/Ayush7614/Bundli-Frontend) | [Vercel](https://) |
-| Daily-Coding-DS-ALGO-Practice | A open source project🚀 for bringing all interview💥💥 and competative📘 programming💥💥 question under one repo📐📐| [Repo](https://github.com/Ayush7614Daily-Coding-DS-ALGO-Practice) | [Github](https://daily-ds-algo.github.io/DS-Algo-Website/) |
+| Bundli-Frontend | Bundli-Frontend 🚩 is a open source project which contains 🚀different code of frontend Development 👨‍💻🚀 | [Repo](https://github.com/Ayush7614/Bundli-Frontend) | [Vercel](https://) |
+| Daily-Coding-DS-ALGO-Practice | It is the indias largest DSA Repo A open source project🚀 for bringing all interview💥💥 and competative📘 programming💥💥 question under one repo📐📐| [Repo](https://github.com/Ayush7614Daily-Coding-DS-ALGO-Practice) | [Github](https://daily-ds-algo.github.io/DS-Algo-Website/) |
+| Soomvaar | Soomvaar is the repo which 🏩 contains different collection of 👨‍💻🚀code in Python and 💫✨Machine 👬🏼 learning algorithms📗📕 that is made during 📃 my practice and learning of ML and Python✨💥| [Repo](https://github.com/Ayush7614/Soomvaar) | [Github]() |
+| Botter | SBotter is👨‍💻 bot which 👇 👇tweets☕ random quote💥💥s with images and #hashtags💥💥.| [Repo](https://github.com/Ayush7614/Botter) | [Github]() |
+| Open-Source-Milap | This💥💥 repo🍕🍕 contains ✏️✏️the 💜 roadmaps 💫 🔥and🧍 meetups📗📕 of👇 👇 open source👨‍💻🚀.| [Repo](https://github.com/Ayush7614/Open-Source-Milap) | [Github](https://ayush7614.github.io/Open-Source-Milap/) |
+
 
 
 
