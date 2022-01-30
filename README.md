@@ -60,8 +60,8 @@
 | Botter | SBotter is👨‍💻 bot which 👇 👇tweets☕ random quote💥💥s with images and #hashtags💥💥.| [Repo](https://github.com/Ayush7614/Botter) | [Github]() |
 | Open-Source-Milap | This💥💥 repo🍕🍕 contains ✏️✏️the 💜 roadmaps 💫 🔥and🧍 meetups📗📕 of👇 👇 open source👨‍💻🚀.| [Repo](https://github.com/Ayush7614/Open-Source-Milap) | [Github](https://ayush7614.github.io/Open-Source-Milap/) |
 
-
-
+### Projects 🌱
+**More Projects Coming Soon. Some of my Freelancing projects under process coming soon** **Tab tak ke liye Happy Coding**
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
