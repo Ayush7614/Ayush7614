@@ -55,8 +55,7 @@
 | Foody-Moody |  | [Repo](https://github.com/Ayush7614/Foody-Moody) | [Vercel](https://foody-moody.vercel.app) |
 | Khana-Khazana |  | [Repo](https://github.com/Ayush7614/Khana-Khazana) | [Vercel](https://khana-khazana.vercel.app/) |
 | Bundli-Frontend | Bundli-Frontend 🚩 is a repo which contains 🚀different code of frontend Development 👨‍💻🚀 | [Repo](https://github.com/Ayush7614/Bundli-Frontend) | [Vercel](https://) |
-| Daily-Coding-DS-ALGO-Practice | A open source project🚀 for bringing all interview💥💥 and competative📘 programming💥💥 question under one repo📐📐| 
-[Repo](https://github.com/Ayush7614Daily-Coding-DS-ALGO-Practice) | [Github](https://daily-ds-algo.github.io/DS-Algo-Website/) |
+| Daily-Coding-DS-ALGO-Practice | A open source project🚀 for bringing all interview💥💥 and competative📘 programming💥💥 question under one repo📐📐| [Repo](https://github.com/Ayush7614Daily-Coding-DS-ALGO-Practice) | [Github](https://daily-ds-algo.github.io/DS-Algo-Website/) |
 
 
 
