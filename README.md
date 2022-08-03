@@ -99,7 +99,8 @@
 
 
 ### Honors & Awards 🏅
-
+- Cracked Google Summer of Code 22
+- Cracked GitHub Campus Expert
 - Top 3 Contributers in KWOC(Kharagpur Winter of Code 2020 by IIT Kharagpur Open Source Community)
 - Get 5 Position in all over india in Script Winter of Code(SWOC20) 2020-21 a open source program by Script community
 - Got 17 Rank in JWOC WInter of code 2020-21 in India open source program organized by JGEC College
