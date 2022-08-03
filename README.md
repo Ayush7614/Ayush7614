@@ -60,6 +60,15 @@
 | Botter | SBotter is👨‍💻 bot which 👇 👇tweets☕ random quote💥💥s with images and #hashtags💥💥.| [Repo](https://github.com/Ayush7614/Botter) | [Github]() |
 | Open-Source-Milap | This💥💥 repo🍕🍕 contains ✏️✏️the 💜 roadmaps 💫 🔥and🧍 meetups📗📕 of👇 👇 open source👨‍💻🚀.| [Repo](https://github.com/Ayush7614/Open-Source-Milap) | [Github](https://ayush7614.github.io/Open-Source-Milap/) |
 
+### Blogs ✏️✏️
+
+- [Getting started with CI/CD](https://ayush7614.hashnode.dev/getting-started-with-cicd)
+- [How to start with Open Source](https://ayush7614.hashnode.dev/how-to-start-with-open-source)
+- [Becoming a GitHub Campus Expert](https://ayush7614.hashnode.dev/becoming-a-github-campus-expert)
+- [Adding Voice Commands to Web App](https://ayush7614.hashnode.dev/adding-voice-commands-to-web-app)
+- [Asymptotic Notations and Analysis](https://ayush7614.hashnode.dev/asymptotic-notations-and-analysis)
+- [Best Compilers Online and Offline for programmers in 2022](https://ayush7614.hashnode.dev/best-compilers-online-and-offline-for-programmers-in-2022)
+
 ### Projects 🌱
 **More Projects Coming Soon. Some of my Freelancing projects under process coming soon** **Tab  tak ke liye Happy Coding**
 
