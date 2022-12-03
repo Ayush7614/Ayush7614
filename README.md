@@ -17,6 +17,8 @@
 
 ### Blogs ✏️✏️
 
+- [Choose DevRel as a Career](https://ayush7614.hashnode.dev/choose-devrel-as-a-career)
+- [What Exactly is Community Management ?](https://ayush7614.hashnode.dev/what-exactly-is-community-management#cl7k2rn490edv4xnv8qrabo61) 
 - [Getting started with CI/CD](https://ayush7614.hashnode.dev/getting-started-with-cicd)
 - [How to start with Open Source](https://ayush7614.hashnode.dev/how-to-start-with-open-source)
 - [Becoming a GitHub Campus Expert](https://ayush7614.hashnode.dev/becoming-a-github-campus-expert)
