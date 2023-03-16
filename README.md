@@ -15,7 +15,7 @@
 
 
 
-### Blogs ✏️✏️
+### Blogs ✏️✏️✏️
 
 - [Choose DevRel as a Career](https://ayush7614.hashnode.dev/choose-devrel-as-a-career)
 - [What Exactly is Community Management ?](https://ayush7614.hashnode.dev/what-exactly-is-community-management#cl7k2rn490edv4xnv8qrabo61) 
