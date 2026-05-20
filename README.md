@@ -1,79 +1,269 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+<div align="center">
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:7c3aed,100:22d3ee&height=180&section=header&text=NeuralVerse%20Online&fontSize=42&fontColor=fff&animation=twinkling"/>
 
-🎓 I am Ayush Kumar, a **Full Stack Web Developer** (specializing in **React Applications and NodeJS**) and a [**Freelancer**] I am also Pursuing my Bachelor in **Electronics  & Communication Engineering** and will graduate in mid-2023.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=50&lines=Hey%2C+I'm+Ayush+Kumar+%F0%9F%91%8B;DevRel+%C2%B7+AI+Agents+%C2%B7+Open+Source+%C2%B7+Security;Building+RuntimeWall+%F0%9F%9B%A1%EF%B8%8F;800%2B+blogs+%C2%B7+500K%2B+reads+%C2%B7+%E2%88%9E+caffeine;transmitting+from+the+lab%E2%80%A6"/>
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Organizations including, **Material Kit React**, **MetaCall**, **Circuitverse**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **ReactJS**, **NodeJS**, **Django**, **Micro-Frontend Architecture** and **Backend Development**. I got started with [**Freelancing**]Some of my freelancing projects available at my [**Github Profile**](https://github.com/Ayush7614)
+[![Portfolio](https://img.shields.io/badge/ayushbuilds.dev-0f0f23?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://ayushbuilds-dev.vercel.app/)
+[![NeuralVerse](https://img.shields.io/badge/NeuralVerse-blog-7c3aed?style=for-the-badge&logo=hashnode&logoColor=white)](https://neural-verse-peach.vercel.app/)
+[![Topmate](https://img.shields.io/badge/Book+1%3A1-Topmate-ff6b6b?style=for-the-badge&logo=googlemeet&logoColor=white)](https://topmate.io/ayush7)
+[![Email](https://img.shields.io/badge/ayushknj3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushknj3@gmail.com)
 
-### Languages I use to talk to computer 🤔
+<img src="https://komarev.com/ghpvc/?username=Ayush7614&label=profile+views&color=7c3aed&style=flat" alt="profile views"/>
 
-<img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
-<img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-	<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<p>&nbsp;</p>
+</div>
 
+---
 
+```bash
+$ whoami
+> ayush.kumar · Senior DevRel · AI & Cloud Engineer
 
-### Blogs ✏️✏️✏️
+$ cat ./now.txt
+> Building RuntimeWall — secure runtime for autonomous AI agents
+> Writing 800+ signals on NeuralVerse · mentoring 2000+ OSS builders
+> 4+ yrs DevRel · 2+ yrs deep in LLMs, agents & AI security
+```
 
-- [Choose DevRel as a Career](https://ayush7614.hashnode.dev/choose-devrel-as-a-career)
-- [What Exactly is Community Management ?](https://ayush7614.hashnode.dev/what-exactly-is-community-management#cl7k2rn490edv4xnv8qrabo61) 
-- [Getting started with CI/CD](https://ayush7614.hashnode.dev/getting-started-with-cicd)
-- [How to start with Open Source](https://ayush7614.hashnode.dev/how-to-start-with-open-source)
-- [Becoming a GitHub Campus Expert](https://ayush7614.hashnode.dev/becoming-a-github-campus-expert)
-- [Adding Voice Commands to Web App](https://ayush7614.hashnode.dev/adding-voice-commands-to-web-app)
-- [Asymptotic Notations and Analysis](https://ayush7614.hashnode.dev/asymptotic-notations-and-analysis)
-- [Best Compilers Online and Offline for programmers in 2022](https://ayush7614.hashnode.dev/best-compilers-online-and-offline-for-programmers-in-2022)
+<div align="center">
 
-### Projects 🌱
-**More Projects Coming Soon. Some of my Freelancing projects under process coming soon** **Tab  tak ke liye Happy Coding**
+<img src="./code.gif" width="480" alt="coding"/>
 
-### My Experiences 🙌
+</div>
 
-- Open Source Maintainer at Codeflow Organization and MetaVASP.
+> **DevRel · AI Agents · Open Source · Security** — I build bridges between builders and technology. Obsessed with LLMs, agentic AI, MCP tooling, and **AI security**. Founder energy on [**RuntimeWall**](https://github.com/RuntimeWall/RuntimeWall). Contributor to [**Promptfoo**](https://github.com/promptfoo/promptfoo) & **Thyris Safe Zone**.
 
-- Working as Freelancer at Upwork and Previously intern at OneGo Lab and FTS.
+<br/>
 
-- Project Admin at **PSOC`21** , **HSSOC`21** 
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&gradient=0:7c3aed,100:22d3ee&color=fff&text=◆%20signal%20feed%20◆&fontSize=18&reversal=true"/>
 
-- Admin at [DevIncept Contributor Program](https://devincept.tech/join-us.html). DevIncept Contributor Program is an Open-Source program to bring students into the world of open source development. There is no restriction in technology, framework or language.  I am working as project admin. My 5 projects are selected for program guiding 500+ students and 20+ mentors from all over region about git, github and open source and how they contributed to my projects and others projects [Bundli-Frontend](https://github.com/Ayush7614/Bundli-Frontend).[Daily-Coding-DS-ALGO-Practice](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice) and projects is Instatags, Botter and open source milap.
+<br/>
 
-- Admin at Let's Grow More Summer of Code 2021 is an Open-Source program to bring students into the world of open source development. There is no restriction in technology, framework or language.  I am working as project admin. My 1 projects are selected for program guiding 1000+ students and 10+ mentors from all over region about git, github and open source and how they contributed to my projects and others projects [Daily-Coding-DS-ALGO-Practice](https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice)
+<!-- skills marquee -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1&pause=1000&color=A78BFA&center=true&multiline=true&width=900&height=30&lines=LLMs+%26+Agentic+AI+%E2%97%86+AI+Security+%E2%97%86+Runtime+Governance+%E2%97%86+MCP+%26+Tooling+%E2%97%86+DevRel+%E2%97%86+Open+Source+%E2%97%86+Vector+DBs+%E2%97%86+Technical+Writing"/>
 
-- Contributor at GirlScript Summer of Code 2021. Embraced the journey of Open Source along with the wholesome community of Girl Script. Contributed to multiple projects and still contributing.
+---
 
-- Mentee at Script Winter of Code 2020-21. Its an open source program which embarked my journey in the world of Open Source. I contributed to various open source projects and explored the new oppurtunites of Open Source Community.
+## 📡 live stats · from the verse
 
-- Mentee at Kharagpur Winter of Code 2020-21. Its an open source program which embarked my journey in the world of Open Source. I contributed to various open source projects and explored the new oppurtunites of Open Source Community.
+<div align="center">
 
-- Mentee at Devscript Winter of Code 2020-21. Its an open source program which embarked my journey in the world of Open Source. I contributed to various open source projects and explored the new oppurtunites of Open Source Community.
+| | |
+|:---:|:---:|
+| **800+** blogs | **100K+** words shipped |
+| **500K+** reads | **∞** caffeine units |
+| **300+** technical posts authored | **2000+** OSS contributors mentored |
 
-- Mentee at Crosswoc Winter of Code 2020-21. Its an open source program which embarked my journey in the world of Open Source. I contributed to various open source projects and explored the new oppurtunites of Open Source Community.
+</div>
 
-- Mentee at JWOC Winter of Code 2020-21. Its an open source program which embarked my journey in the world of Open Source. I contributed to various open source projects and explored the new oppurtunites of Open Source Community.
+<div align="center">
 
+<a href="https://github.com/Ayush7614">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ayush7614&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0f23&title_color=22d3ee&icon_color=7c3aed&text_color=c9d1d9"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush7614&theme=tokyonight&hide_border=true&background=0F0F23&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE"/>
+</a>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush7614&bg_color=0f0f23&color=7c3aed&line=22d3ee&point=22d3ee&area=true&hide_border=true"/>
 
-### Honors & Awards 🏅
-- Cracked Google Summer of Code 22
-- Cracked GitHub Campus Expert
-- Top 3 Contributers in KWOC(Kharagpur Winter of Code 2020 by IIT Kharagpur Open Source Community)
-- Get 5 Position in all over india in Script Winter of Code(SWOC20) 2020-21 a open source program by Script community
-- Got 17 Rank in JWOC WInter of code 2020-21 in India open source program organized by JGEC College
-- Got 81 Rank in DWOC 2020-21 Devscript winter of code a open source program organized by Devscript community
-- Got 6 Rank in IEEE DTU CrossWoc 2021 a open source program organized by Delhi Technical University
-- My Competative Programming Project gains 400 forks and 200+ On Github
-- My Frontend Project Gains 100+ forks and 100+ On Github
-- Guiding 3000+ Students and 500+ mentors in different different Open Source Programs and so on.
-- Best mentor award in Hssoc21 and Psoc21 and devicept21 a open source program in india
-- Selected as a scholarship recipient for SUSE Cloud Native Course by Udacity. 
-- Selected as a scholarship recipient for AWS Machine Learning Scholarship Program by AWS & Udacity. 
-- Selected as a scholarship recipient for Education Outreach program by GirlScript
+<br/>
 
+![Snake eating my contributions](https://raw.githubusercontent.com/Ayush7614/Ayush7614/output/github-contribution-grid-snake.gif)
 
+</div>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+---
 
-<a href="https://www.buymeacoffee.com/Ayush7614" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+## 🛡️ flagship · building now
 
+<table>
+<tr>
+<td width="50%">
+
+### [**RuntimeWall**](https://github.com/RuntimeWall/RuntimeWall)
+**Security-first runtime for autonomous AI agents**
+
+Sandboxes · session replay · MCP security · observability
+
+`Go` `Next.js` `Docker` `WebSockets` `PostgreSQL`
+
+</td>
+<td width="50%">
+
+### [**NeuralVerse**](https://neural-verse-peach.vercel.app/)
+**Notebook & signal feed — 800+ transmissions**
+
+AI · LLMs · agents · cybersecurity · DevRel · OSS
+
+`Next.js` `MDX` `Blog`
+
+</td>
+</tr>
+<tr>
+<td>
+
+### [**ayushbuilds.dev**](https://ayushbuilds-dev.vercel.app/)
+**Portfolio — dark ember aesthetic**
+
+DevRel · AI security · projects · consult
+
+`Next.js` `TypeScript` `Tailwind` `Framer Motion`
+
+</td>
+<td>
+
+### more ships
+**Paanch-Editor** · **Etihaas** · **Foody-Moody** · **Tutorhuntz** · **Zipify**
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✍️ latest signals · [NeuralVerse](https://neural-verse-peach.vercel.app/)
+
+| date | transmission | tags |
+|------|--------------|------|
+| May 19, 2026 | [How to Install & Run EmbeddingGemma 300m locally](https://neural-verse-peach.vercel.app/) | `Local LLMs` `Tutorial` |
+| May 19, 2026 | [The Open Source App Builder — Dyad Ollama Setup](https://neural-verse-peach.vercel.app/) | `Local LLMs` `AI` |
+| May 19, 2026 | [Zero to Docs Hero — Python Doc Generator with GPT-5](https://neural-verse-peach.vercel.app/) | `AI` `LLMs` |
+| May 18, 2026 | [GPT OSS 120B Coding Beast — Reviews, Fixes, Writes](https://neural-verse-peach.vercel.app/) | `AI` `Tutorial` |
+| May 18, 2026 | [How to Install Devstral Small 1.1 locally](https://neural-verse-peach.vercel.app/) | `Local LLMs` `AI` |
+| May 18, 2026 | [LLMs Under Fire — Red Teaming with Deepteam + Ollama](https://neural-verse-peach.vercel.app/) | `Security` `LLMs` |
+
+<div align="center">
+
+[![Read all blogs](https://img.shields.io/badge/→_See_all_800%2B_blogs-NeuralVerse-7c3aed?style=for-the-badge)](https://neural-verse-peach.vercel.app/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-archive-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Ayush7614)
+
+</div>
+
+---
+
+## 🧠 open source · where it matters
+
+<div align="center">
+
+[![RuntimeWall](https://img.shields.io/badge/RuntimeWall-Founder_%26_Contributor-0f0f23?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/RuntimeWall/RuntimeWall)
+[![Promptfoo](https://img.shields.io/badge/Promptfoo-Contributor-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/promptfoo/promptfoo)
+[![Thyris TSZ](https://img.shields.io/badge/Thyris_Safe_Zone-Contributor-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thyris-ai)
+
+</div>
+
+---
+
+## 💼 experience · shipped impact
+
+<details>
+<summary><b>Lead Developer Relations Engineer</b> · NodeShift AI Cloud · Jul 2024 – Dec 2025</summary>
+
+- 150+ blogs on AI, LLMs, MCP, APIs, Web3, Cloud, TAK Server
+- Dubai UAE Govt TAK Server deployment on NodeShift GPU VMs
+- Documentation, marketing & global DevRel content strategy
+
+</details>
+
+<details>
+<summary><b>DevRel Engineer Consultant</b> · Techlatest.net · Mar 2023 – Jul 2024</summary>
+
+- Content lead: AI/ML, DevOps, GUI-based dev education
+- 150+ blogs · Linux VMs · SEO · newsletters · community growth
+
+</details>
+
+<details>
+<summary><b>Google Summer of Code '22</b> · Fossology · Student Developer</summary>
+
+- REST APIs with React · legacy PHP/Slim · YAML API docs
+
+</details>
+
+<details>
+<summary><b>+ Keploy · Humalect · DEVs Dungeon · QwikSkills · NimbleEdge · CryptoCapable · Hyathi · OneGo</b></summary>
+
+DevRel · community · full-stack · OSS — the long arc of shipping in public.
+
+</details>
+
+---
+
+## 🏆 badges · honors · community
+
+<div align="center">
+
+`GitHub Campus Expert` `GSoC '22` `AWS Community Builder` `Auth0 Ambassador`
+
+`Smart India Hackathon Winner '22` `KWOC 3rd` `SWOC 5th` `JWOC 17th` `DWOC 81st` `CWOC 6th`
+
+`Founder — Nexus What The Hack` `20+ events` `15+ bootcamps` `Best Mentor — HSSOC · PSOC · DevicePT`
+
+</div>
+
+**Education:** B.Tech ECE · ABES Engineering College · GPA 7.7/10 · 2019–2023
+
+---
+
+## 🛠️ stack · languages · tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,go,docker,kubernetes,aws,gcp,postgres,mongodb,git,linux&perline=8"/>
+
+</div>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=22D3EE&center=true&multiline=true&width=900&lines=TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;Python+%C2%B7+Go+%C2%B7+Docker+%C2%B7+K8s;LLMs+%C2%B7+RAG+%C2%B7+Vector+DBs+%C2%B7+MCP;Promptfoo+%C2%B7+Red+Teaming+%C2%B7+Guardrails"/>
+
+---
+
+## 🤝 let's talk · 1:1 mentorship
+
+<div align="center">
+
+**Book a session on whatever's in your head** — DevRel paths, OSS strategy, AI/LLM engineering, resume reviews.
+
+[![Topmate — ★ 4.3 · 30 ratings](https://img.shields.io/badge/Topmate-Book_a_session-ff6b6b?style=for-the-badge&logo=googlemeet&logoColor=white)](https://topmate.io/ayush7)
+
+| Open Source | AI / ML / LLMs | Agentic AI | DevRel | Community |
+|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+---
+
+## 🔗 connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ayush7614-181717?style=for-the-badge&logo=github)](https://github.com/Ayush7614)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-kumar-devrel/)
+[![Twitter](https://img.shields.io/badge/Twitter-@AyushKu38757918-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/AyushKu38757918)
+[![Resume](https://img.shields.io/badge/Resume-Google_Drive-34A853?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/120ZIa4rxIv49WbCqbJKO_g23KrFbcRJK/view)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,12,20&height=100&section=footer"/>
+
+**if you vibe with the verse, fuel the transmission** ☕
+
+<a href="https://www.buymeacoffee.com/Ayush7614" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="180"/>
+</a>
+
+<br/><br/>
+
+```diff
++ v2.0 · est. 2026 · NeuralVerse transmitting…
+! 4 years since last README update — finally patched 🚀
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=7C3AED&center=true&width=500&lines=thanks+for+stopping+by+%F0%9F%91%8B;see+you+in+the+verse"/>
+
+**© 2026 Ayush Kumar** · built with curiosity · shipped in the open
+
+</div>
