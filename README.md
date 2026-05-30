@@ -29,12 +29,14 @@ $ cat ./now.txt
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=50&gradient=0:7c3aed,100:22d3ee&color=fff&text=◆%20signal%20feed%20◆&fontSize=18&reversal=true"/>
-
-<br/>
-
-<!-- skills marquee -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1&pause=1000&color=A78BFA&center=true&multiline=true&width=900&height=30&lines=LLMs+%26+Agentic+AI+%E2%97%86+AI+Security+%E2%97%86+Runtime+Governance+%E2%97%86+MCP+%26+Tooling+%E2%97%86+DevRel+%E2%97%86+Open+Source+%E2%97%86+Vector+DBs+%E2%97%86+Technical+Writing"/>
+<p align="center">
+  <marquee scrollamount="6" direction="left">
+    <font face="JetBrains Mono" color="#c9d1d9">
+      LLMs &amp; Agentic AI <font color="#f97316">◆</font> AI Security <font color="#f97316">◆</font> Runtime Governance <font color="#f97316">◆</font> MCP &amp; Tooling <font color="#f97316">◆</font> DevRel &amp; Community <font color="#f97316">◆</font> Technical Writing <font color="#f97316">◆</font> Open Source <font color="#f97316">◆</font> Cybersecurity <font color="#f97316">◆</font> Vector DBs <font color="#f97316">◆</font>
+      LLMs &amp; Agentic AI <font color="#f97316">◆</font> AI Security <font color="#f97316">◆</font> Runtime Governance <font color="#f97316">◆</font> MCP &amp; Tooling <font color="#f97316">◆</font> DevRel &amp; Community <font color="#f97316">◆</font> Technical Writing <font color="#f97316">◆</font> Open Source <font color="#f97316">◆</font> Cybersecurity <font color="#f97316">◆</font> Vector DBs <font color="#f97316">◆</font>
+    </font>
+  </marquee>
+</p>
 
 ---
 
