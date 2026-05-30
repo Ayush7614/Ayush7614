@@ -17,7 +17,7 @@
 
 ```bash
 $ whoami
-> ayush.kumar · Senior DevRel · AI & Cloud Engineer
+> ayush.kumar · Senior DevRel · AI, AI Security, Cybersecurity & Cloud Engineer
 
 $ cat ./now.txt
 > Building RuntimeWall — secure runtime for autonomous AI agents
