@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:7c3aed,100:22d3ee&height=180&section=header&text=NeuralVerse%20Online&fontSize=42&fontColor=fff&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=50&lines=Hey%2C+I'm+Ayush+Kumar+%F0%9F%91%8B;DevRel+%C2%B7+AI+Agents+%C2%B7+Open+Source+%C2%B7+Security;Building+RuntimeWall+%F0%9F%9B%A1%EF%B8%8F;800%2B+blogs+%C2%B7+500K%2B+reads+%C2%B7+%E2%88%9E+caffeine;transmitting+from+the+lab%E2%80%A6"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=50&lines=Hey%2C+I'm+Ayush+Kumar+%F0%9F%91%8B;DevRel+%C2%B7+AI+Agents+%C2%B7+Open+Source+%C2%B7+Security;Building+RuntimeWall+%F0%9F%9B%A1%EF%B8%8F;1000%2B+Blog+Posts+%C2%B7+500K%2B+reads+%C2%B7+%E2%88%9E+caffeine;transmitting+from+the+lab%E2%80%A6"/>
 
 [![Portfolio](https://img.shields.io/badge/ayushbuilds.dev-0f0f23?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://ayushbuilds-dev.vercel.app/)
 [![NeuralVerse](https://img.shields.io/badge/NeuralVerse-blog-7c3aed?style=for-the-badge&logo=hashnode&logoColor=white)](https://neural-verse-peach.vercel.app/)
@@ -21,7 +21,7 @@ $ whoami
 
 $ cat ./now.txt
 > Building RuntimeWall — secure runtime for autonomous AI agents
-> Writing 800+ signals on NeuralVerse · mentoring 20000+ OSS builders
+> Writing 1000+ blog posts on NeuralVerse · mentoring 20000+ OSS builders
 > 4+ yrs DevRel · 2+ yrs deep in LLMs, agents & AI security
 ```
 
@@ -50,7 +50,7 @@ $ cat ./now.txt
 
 | | |
 |:---:|:---:|
-| **800+** blogs | **100K+** words shipped |
+| **1000+** Blog Posts | **100K+** words shipped |
 | **500K+** reads | **∞** caffeine units |
 | **300+** technical posts authored | **20000+** OSS contributors mentored |
 
@@ -90,7 +90,7 @@ Sandboxes · session replay · MCP security · observability
 <td width="50%">
 
 ### [**NeuralVerse**](https://neural-verse-peach.vercel.app/)
-**Notebook & signal feed — 800+ transmissions**
+**Notebook & signal feed — 1000+ transmissions**
 
 AI · LLMs · agents · cybersecurity · DevRel · OSS
 
@@ -133,7 +133,7 @@ DevRel · AI security · projects · consult
 
 <div align="center">
 
-[![Read all blogs](https://img.shields.io/badge/→_See_all_800%2B_blogs-NeuralVerse-7c3aed?style=for-the-badge)](https://neural-verse-peach.vercel.app/)
+[![Read all blogs](https://img.shields.io/badge/→_See_all_1000%2B_Blog_Posts-NeuralVerse-7c3aed?style=for-the-badge)](https://neural-verse-peach.vercel.app/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-archive-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Ayush7614)
 
 </div>
