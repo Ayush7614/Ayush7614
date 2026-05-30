@@ -59,15 +59,15 @@ $ cat ./now.txt
 <div align="center">
 
 <a href="https://github.com/Ayush7614">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ayush7614&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0f23&title_color=22d3ee&icon_color=7c3aed&text_color=c9d1d9"/>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush7614&theme=tokyonight&hide_border=true&background=0F0F23&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE"/>
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush7614&theme=tokyonight"/>
+  <img height="165em" src="https://streak-stats.demolab.com/?user=Ayush7614&theme=tokyonight&hide_border=true&background=0F0F23&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE"/>
 </a>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush7614&bg_color=0f0f23&color=7c3aed&line=22d3ee&point=22d3ee&area=true&hide_border=true"/>
 
 <br/>
 
-![Snake eating my contributions](https://raw.githubusercontent.com/Ayush7614/Ayush7614/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/Ayush7614/Ayush7614/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions"/>
 
 </div>
 
