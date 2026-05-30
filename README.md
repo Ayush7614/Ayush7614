@@ -52,7 +52,7 @@ $ cat ./now.txt
 |:---:|:---:|
 | **1000+** Blog Posts | **100K+** words shipped |
 | **500K+** reads | **∞** caffeine units |
-| **300+** technical posts authored | **20000+** OSS contributors mentored |
+| **1000+** technical posts authored | **20000+** OSS contributors mentored |
 
 </div>
 
