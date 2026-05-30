@@ -25,12 +25,6 @@ $ cat ./now.txt
 > 4+ yrs DevRel · 2+ yrs deep in LLMs, agents & AI security
 ```
 
-<div align="center">
-
-<img src="./code.gif" width="480" alt="coding"/>
-
-</div>
-
 > **DevRel · AI Agents · Open Source · Security** — I build bridges between builders and technology. Obsessed with LLMs, agentic AI, MCP tooling, and **AI security**. Founder energy on [**RuntimeWall**](https://github.com/RuntimeWall/RuntimeWall). Contributor to [**Promptfoo**](https://github.com/promptfoo/promptfoo) & **Thyris Safe Zone**.
 
 <br/>
@@ -209,11 +203,17 @@ DevRel · community · full-stack · OSS — the long arc of shipping in public.
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,go,docker,kubernetes,aws,gcp,postgres,mongodb,git,linux&perline=8"/>
 
-</div>
+<br/><br/>
+
+**TypeScript · React · Next.js · Node.js · Python · Go · Docker · K8s**
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=22D3EE&center=true&multiline=true&width=900&lines=TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;Python+%C2%B7+Go+%C2%B7+Docker+%C2%B7+K8s;LLMs+%C2%B7+RAG+%C2%B7+Vector+DBs+%C2%B7+MCP;Promptfoo+%C2%B7+Red+Teaming+%C2%B7+Guardrails"/>
+**LLMs · RAG · Vector DBs · MCP · Promptfoo · Red Teaming · Guardrails**
+
+<br/><br/>
+
+</div>
 
 ---
 
