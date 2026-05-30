@@ -54,6 +54,16 @@ $ cat ./now.txt
   <img src="https://img.shields.io/badge/Code%20Time-261%20hrs%207%20mins-007ec6?style=flat-square&labelColor=343942&logo=wakatime&logoColor=white" alt="Code Time — 261 hrs 7 mins"/>
 </a>
 
+<br/><br/>
+
+**⏳ Year Progress**
+
+<img src="https://year-in-progress.vercel.app/year-progress?theme=dark" alt="Year Progress — percent of 2026 completed"/>
+
+<br/>
+
+<sub>⏰ auto-updates daily · progress through 2026</sub>
+
 </div>
 
 <div align="center">
