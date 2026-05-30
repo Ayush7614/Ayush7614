@@ -21,7 +21,7 @@ $ whoami
 
 $ cat ./now.txt
 > Building RuntimeWall — secure runtime for autonomous AI agents
-> Writing 800+ signals on NeuralVerse · mentoring 2000+ OSS builders
+> Writing 800+ signals on NeuralVerse · mentoring 20000+ OSS builders
 > 4+ yrs DevRel · 2+ yrs deep in LLMs, agents & AI security
 ```
 
@@ -52,7 +52,7 @@ $ cat ./now.txt
 |:---:|:---:|
 | **800+** blogs | **100K+** words shipped |
 | **500K+** reads | **∞** caffeine units |
-| **300+** technical posts authored | **2000+** OSS contributors mentored |
+| **300+** technical posts authored | **20000+** OSS contributors mentored |
 
 </div>
 
