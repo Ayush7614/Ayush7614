@@ -50,7 +50,9 @@ $ cat ./now.txt
 
 <br/>
 
-[![Code Time](https://wakatime.com/badge/github/Ayush7614.svg)](https://wakatime.com/@Ayush7614)
+<a href="https://wakatime.com/@Ayush7614">
+  <img src="https://img.shields.io/badge/Code%20Time-261%20hrs%207%20mins-007ec6?style=flat-square&labelColor=343942&logo=wakatime&logoColor=white" alt="Code Time — 261 hrs 7 mins"/>
+</a>
 
 </div>
 
