@@ -48,6 +48,10 @@ $ cat ./now.txt
 | **500K+** reads | **∞** caffeine units |
 | **1000+** technical posts authored | **20000+** OSS contributors mentored |
 
+<br/>
+
+[![Code Time](https://wakatime.com/badge/github/Ayush7614.svg)](https://wakatime.com/@Ayush7614)
+
 </div>
 
 <div align="center">
