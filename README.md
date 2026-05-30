@@ -52,8 +52,8 @@ $ cat ./now.txt
 
 <br/>
 
-<a href="https://wakatime.com/dashboard">
-  <img src="https://wakatime.com/badge/github/Ayush7614.svg?style=flat-square" alt="WakaTime Code Time"/>
+<a href="https://wakatime.com/@4c6f0e39-a5c7-4d54-b0fc-23f3757679eb">
+  <img src="https://wakatime.com/badge/user/4c6f0e39-a5c7-4d54-b0fc-23f3757679eb.svg?style=flat-square" alt="WakaTime Code Time"/>
 </a>
 
 <br/><br/>
