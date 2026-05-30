@@ -1,0 +1,25 @@
+name: Update Year Progress
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update year progress in README
+        run: python3 .github/scripts/update-year-progress.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update year progress"
+          commit_user_name: Ayush7614
+          commit_user_email: ayushknj3@gmail.com

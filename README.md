@@ -56,13 +56,13 @@ $ cat ./now.txt
 
 <br/><br/>
 
-**⏳ Year Progress**
-
-<img src="https://year-in-progress.vercel.app/year-progress?theme=dark" alt="Year Progress — percent of 2026 completed"/>
+<!--YEAR_PROGRESS_START-->
+⏳ **Year Progress:** `{██████████───────────────}` **40.95%** as on ⏰ **30-May-2026**
+<!--YEAR_PROGRESS_END-->
 
 <br/>
 
-<sub>⏰ auto-updates daily · progress through 2026</sub>
+<sub>⏰ real calendar data · auto-updates daily · progress through 2026</sub>
 
 </div>
 
