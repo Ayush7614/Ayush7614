@@ -1,3 +1,22 @@
+### Contributing to
+
+- **[Promptfoo](https://github.com/promptfoo/promptfoo)** ![stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — CrewAI & LangGraph agent evaluation guides, E2B sandbox code-eval example, Grok vs GPT-5 comparison, ACP Booksmith multi-agent example, redteam CrewAI guide fixes
+- **[EverOS](https://github.com/EverMind-AI/EverOS)** ![stars](https://img.shields.io/github/stars/EverMind-AI/EverOS?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Cursor agent hooks for local EverOS memory, foresight sender ToolCallRequest scan fix, local-first Markdown-native agent memory layer
+- **[Strix](https://github.com/usestrix/strix)** ![stars](https://img.shields.io/github/stars/usestrix/strix?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Five security skills: OAuth, AWS, prototype pollution, deserialization, Django
+- **[Rhesis](https://github.com/rhesis-ai/rhesis)** ![stars](https://img.shields.io/github/stars/rhesis-ai/rhesis?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Google ADK, Haystack & AutoGen auto-instrumentation, Penelope Target integrations, MCP tools (Linear, Azure DevOps, GitLab, Asana, Shortcut), LlamaIndex RAG & OpenAI/Anthropic telemetry examples
+- **[Compound Engineering Plugin](https://github.com/EveryInc/compound-engineering-plugin)** ![stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Antigravity one-command plugin install from GitHub
+- **[Greplica](https://github.com/Autoloops/greplica)** ![stars](https://img.shields.io/github/stars/Autoloops/greplica?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Gemini CLI & Continue platform install support, persistent searchable engineering memory for AI coding agents
+- **[xberg](https://github.com/xberg-io/xberg)** ![stars](https://img.shields.io/github/stars/xberg-io/xberg?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — MCP HTTP transport client snippet, batch_extract_files Python docs
+- **[Kova](https://github.com/KovaMD/Kova)** ![stars](https://img.shields.io/github/stars/KovaMD/Kova?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Duplicate slide thumbnail menu, hide/show slide shortcut, Open Recent File menu, Table of Contents discoverability, PDF/Mermaid/keybinding/font test coverage
+- **[Hivemind](https://github.com/activeloopai/hivemind)** ![stars](https://img.shields.io/github/stars/activeloopai/hivemind?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — OpenClaw code graph auto-build, tools, and session inject
+- **[Webbrain](https://github.com/webbrain-one/webbrain)** ![stars](https://img.shields.io/github/stars/webbrain-one/webbrain?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Firefox per-tab conversation persistence, go_back/go_forward history navigation tools, pre-execution planner gate for Act mode
+- **[CVE Lite CLI](https://github.com/OWASP/cve-lite-cli)** ![stars](https://img.shields.io/github/stars/OWASP/cve-lite-cli?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — No-fix-available and multi-path-same-vuln regression fixtures, NestJS case study remediation docs
+- **[OpenTaint](https://github.com/seqra/opentaint)** ![stars](https://img.shields.io/github/stars/seqra/opentaint?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — README translations (Indonesian, Swedish, Hindi)
+- **[Taurent](https://github.com/racos-dev/taurent)** ![stars](https://img.shields.io/github/stars/racos-dev/taurent?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — torrentStatus utils test coverage, desktop "Add peers" panel
+- **[Inkbox](https://github.com/inkbox-ai/inkbox)** ![stars](https://img.shields.io/github/stars/inkbox-ai/inkbox?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Agent self-signup example
+
+---
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=50&lines=Hey%2C+I'm+Ayush+Kumar+%F0%9F%91%8B;DevRel+%C2%B7+AI+Agents+%C2%B7+Open+Source+%C2%B7+Security;Building+RuntimeWall+%F0%9F%9B%A1%EF%B8%8F;1000%2B+Blog+Posts+%C2%B7+500K%2B+reads+%C2%B7+%E2%88%9E+caffeine;transmitting+from+the+lab%E2%80%A6"/>
