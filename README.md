@@ -1,3 +1,16 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=50&lines=Hey%2C+I'm+Ayush+Kumar+%F0%9F%91%8B;DevRel+%C2%B7+AI+Agents+%C2%B7+Open+Source+%C2%B7+Security;Building+RuntimeWall+%F0%9F%9B%A1%EF%B8%8F;1000%2B+Blog+Posts+%C2%B7+500K%2B+reads+%C2%B7+%E2%88%9E+caffeine;transmitting+from+the+lab%E2%80%A6"/>
+
+[![Portfolio](https://img.shields.io/badge/ayushbuilds.dev-0f0f23?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://ayushbuilds-dev.vercel.app/)
+[![NeuralVerse](https://img.shields.io/badge/NeuralVerse-blog-7c3aed?style=for-the-badge&logo=hashnode&logoColor=white)](https://neural-verse-peach.vercel.app/)
+[![Topmate](https://img.shields.io/badge/Book+1%3A1-Topmate-ff6b6b?style=for-the-badge&logo=googlemeet&logoColor=white)](https://topmate.io/ayush7)
+[![Email](https://img.shields.io/badge/ayushknj3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushknj3@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Ayush7614&label=profile+views&color=7c3aed&style=flat" alt="profile views"/>
+
+</div>
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -46,21 +59,6 @@
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Ayush7614&hide_border=true)
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=50&lines=Hey%2C+I'm+Ayush+Kumar+%F0%9F%91%8B;DevRel+%C2%B7+AI+Agents+%C2%B7+Open+Source+%C2%B7+Security;Building+RuntimeWall+%F0%9F%9B%A1%EF%B8%8F;1000%2B+Blog+Posts+%C2%B7+500K%2B+reads+%C2%B7+%E2%88%9E+caffeine;transmitting+from+the+lab%E2%80%A6"/>
-
-[![Portfolio](https://img.shields.io/badge/ayushbuilds.dev-0f0f23?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://ayushbuilds-dev.vercel.app/)
-[![NeuralVerse](https://img.shields.io/badge/NeuralVerse-blog-7c3aed?style=for-the-badge&logo=hashnode&logoColor=white)](https://neural-verse-peach.vercel.app/)
-[![Topmate](https://img.shields.io/badge/Book+1%3A1-Topmate-ff6b6b?style=for-the-badge&logo=googlemeet&logoColor=white)](https://topmate.io/ayush7)
-[![Email](https://img.shields.io/badge/ayushknj3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushknj3@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Ayush7614&label=profile+views&color=7c3aed&style=flat" alt="profile views"/>
-
-</div>
 
 ---
 
