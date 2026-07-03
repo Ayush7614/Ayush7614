@@ -29,6 +29,11 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+[![Ayush7614](https://img.shields.io/badge/-Ayush7614-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayush7614)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-devrel/)
+[![Twitter](https://img.shields.io/badge/-@AyushKu38757918-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/AyushKu38757918)
+[![Resume](https://img.shields.io/badge/-Resume-34A853?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/120ZIa4rxIv49WbCqbJKO_g23KrFbcRJK/view)
+
 ### Contributing to
 
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** ![stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — CrewAI & LangGraph agent evaluation guides, E2B sandbox code-eval example, Grok vs GPT-5 comparison, ACP Booksmith multi-agent example, redteam CrewAI guide fixes
@@ -75,17 +80,6 @@ $ cat ./now.txt
 ```
 
 > **DevRel · AI Agents · Open Source · Security** — I build bridges between builders and technology. Obsessed with LLMs, agentic AI, MCP tooling, and **AI security**. Founder energy on [**RuntimeWall**](https://github.com/RuntimeWall/RuntimeWall). Contributor to [**Promptfoo**](https://github.com/promptfoo/promptfoo) & **Thyris Safe Zone**.
-
-<br/>
-
-<p align="center">
-  <marquee scrollamount="6" direction="left">
-    <font face="JetBrains Mono" color="#c9d1d9">
-      LLMs &amp; Agentic AI <font color="#f97316">◆</font> AI Security <font color="#f97316">◆</font> Runtime Governance <font color="#f97316">◆</font> MCP &amp; Tooling <font color="#f97316">◆</font> DevRel &amp; Community <font color="#f97316">◆</font> Technical Writing <font color="#f97316">◆</font> Open Source <font color="#f97316">◆</font> Cybersecurity <font color="#f97316">◆</font> Vector DBs <font color="#f97316">◆</font>
-      LLMs &amp; Agentic AI <font color="#f97316">◆</font> AI Security <font color="#f97316">◆</font> Runtime Governance <font color="#f97316">◆</font> MCP &amp; Tooling <font color="#f97316">◆</font> DevRel &amp; Community <font color="#f97316">◆</font> Technical Writing <font color="#f97316">◆</font> Open Source <font color="#f97316">◆</font> Cybersecurity <font color="#f97316">◆</font> Vector DBs <font color="#f97316">◆</font>
-    </font>
-  </marquee>
-</p>
 
 ---
 
@@ -262,19 +256,6 @@ DevRel · community · full-stack · OSS — the long arc of shipping in public.
 
 | Open Source | AI / ML / LLMs | Agentic AI | DevRel | Community |
 |:---:|:---:|:---:|:---:|:---:|
-
-</div>
-
----
-
-## 🔗 connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ayush7614-181717?style=for-the-badge&logo=github)](https://github.com/Ayush7614)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-kumar-devrel/)
-[![Twitter](https://img.shields.io/badge/Twitter-@AyushKu38757918-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/AyushKu38757918)
-[![Resume](https://img.shields.io/badge/Resume-Google_Drive-34A853?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/120ZIa4rxIv49WbCqbJKO_g23KrFbcRJK/view)
 
 </div>
 
