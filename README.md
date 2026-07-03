@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:7c3aed,100:22d3ee&height=180&section=header&text=NeuralVerse%20Online&fontSize=42&fontColor=fff&animation=twinkling"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=50&lines=Hey%2C+I'm+Ayush+Kumar+%F0%9F%91%8B;DevRel+%C2%B7+AI+Agents+%C2%B7+Open+Source+%C2%B7+Security;Building+RuntimeWall+%F0%9F%9B%A1%EF%B8%8F;1000%2B+Blog+Posts+%C2%B7+500K%2B+reads+%C2%B7+%E2%88%9E+caffeine;transmitting+from+the+lab%E2%80%A6"/>
 
 [![Portfolio](https://img.shields.io/badge/ayushbuilds.dev-0f0f23?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://ayushbuilds-dev.vercel.app/)
