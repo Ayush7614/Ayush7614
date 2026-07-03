@@ -1,3 +1,19 @@
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-7C3AED?style=flat-square&logo=graphql&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 ### Contributing to
 
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** ![stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — CrewAI & LangGraph agent evaluation guides, E2B sandbox code-eval example, Grok vs GPT-5 comparison, ACP Booksmith multi-agent example, redteam CrewAI guide fixes
@@ -17,15 +33,19 @@
 
 ### Building
 
-- **[mcp-wormhole](https://github.com/Ayush7614/mcp-wormhole)** ![stars](https://img.shields.io/github/stars/Ayush7614/mcp-wormhole?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — MCP server monorepo — one directory per integration for Cursor, Claude Desktop, and 16+ AI clients
-- **[AegisMind](https://github.com/Ayush7614/aegis-mind)** ![stars](https://img.shields.io/github/stars/Ayush7614/aegis-mind?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Security learning vault — cybersecurity, AI security, agents, MCP, and Anthropic-style skills
-- **[Agentic AI Ecosystem](https://github.com/Ayush7614/agentic-ai-ecosystem)** ![stars](https://img.shields.io/github/stars/Ayush7614/agentic-ai-ecosystem?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Hands-on guides for local agentic AI — RAG, multi-agent crews, MCP, and production APIs
-- **[Agent Observatory](https://github.com/Ayush7614/agent-observatory)** ![stars](https://img.shields.io/github/stars/Ayush7614/agent-observatory?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Universal dashboard for coding AI agents — live monitoring, analytics, session recovery, and remote control
-- **[personal-context](https://github.com/Ayush7614/personal-context)** ![stars](https://img.shields.io/github/stars/Ayush7614/personal-context?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Turn your digital footprint into an AI-readable profile — GitHub, blogs, resume → one context source for every agent
-- **[RuntimeWall](https://github.com/RuntimeWall/RuntimeWall)** ![stars](https://img.shields.io/github/stars/RuntimeWall/RuntimeWall?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Security-first runtime and governance for autonomous AI agents — sandboxes, MCP security, observability
-- **[NeuralVerse](https://github.com/Ayush7614/NeuralVerse)** ![stars](https://img.shields.io/github/stars/Ayush7614/NeuralVerse?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Personal blog — cyberpunk-neon Next.js site for AI, security, and DevRel posts
-- **[ayushbuilds.dev](https://github.com/Ayush7614/ayushbuilds.dev)** ![stars](https://img.shields.io/github/stars/Ayush7614/ayushbuilds.dev?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Portfolio website — DevRel, AI agents, open source, and security
-- **[Ayush7614](https://github.com/Ayush7614/Ayush7614)** ![stars](https://img.shields.io/github/stars/Ayush7614/Ayush7614?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — GitHub profile README — stats, flagship projects, OSS contributions, and live signals
+- **[mcp-wormhole](https://github.com/Ayush7614/mcp-wormhole)** — MCP server monorepo — one directory per integration for Cursor, Claude Desktop, and 16+ AI clients
+- **[AegisMind](https://github.com/Ayush7614/aegis-mind)** — Security learning vault — cybersecurity, AI security, agents, MCP, and Anthropic-style skills
+- **[Agentic AI Ecosystem](https://github.com/Ayush7614/agentic-ai-ecosystem)** — Hands-on guides for local agentic AI — RAG, multi-agent crews, MCP, and production APIs
+- **[Agent Observatory](https://github.com/Ayush7614/agent-observatory)** — Universal dashboard for coding AI agents — live monitoring, analytics, session recovery, and remote control
+- **[personal-context](https://github.com/Ayush7614/personal-context)** — Turn your digital footprint into an AI-readable profile — GitHub, blogs, resume → one context source for every agent
+- **[RuntimeWall](https://github.com/RuntimeWall/RuntimeWall)** — Security-first runtime and governance for autonomous AI agents — sandboxes, MCP security, observability
+- **[NeuralVerse](https://github.com/Ayush7614/NeuralVerse)** — Personal blog — cyberpunk-neon Next.js site for AI, security, and DevRel posts
+- **[ayushbuilds.dev](https://github.com/Ayush7614/ayushbuilds.dev)** — Portfolio website — DevRel, AI agents, open source, and security
+- **[Ayush7614](https://github.com/Ayush7614/Ayush7614)** — GitHub profile README — stats, flagship projects, OSS contributions, and live signals
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Ayush7614&hide_border=true)
 
 ---
 
