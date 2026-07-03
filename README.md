@@ -7,8 +7,8 @@
 </div>
 
 [![ayushbuilds.dev](https://img.shields.io/badge/-ayushbuilds.dev-0f0f23?style=flat-square&logo=vercel&logoColor=22d3ee)](https://ayushbuilds-dev.vercel.app/)
-[![NeuralVerse](https://img.shields.io/badge/-NeuralVerse-555555?style=flat-square&logo=hashnode&logoColor=white)](https://neural-verse-peach.vercel.app/)
 [![Blog](https://img.shields.io/badge/-Blog-7c3aed?style=flat-square&logo=hashnode&logoColor=white)](https://neural-verse-peach.vercel.app/)
+[![dev.to](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/ayush7614)
 [![Book+1:1](https://img.shields.io/badge/-Book+1%3A1-555555?style=flat-square&logo=googlemeet&logoColor=white)](https://topmate.io/ayush7)
 [![Topmate](https://img.shields.io/badge/-Topmate-ff6b6b?style=flat-square&logo=googlemeet&logoColor=white)](https://topmate.io/ayush7)
 [![Email](https://img.shields.io/badge/-ayushknj3@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushknj3@gmail.com)
@@ -78,8 +78,6 @@ $ cat ./now.txt
 > Writing 1000+ blog posts on NeuralVerse · mentoring 20000+ OSS builders
 > 4+ yrs DevRel · 2+ yrs deep in LLMs, agents & AI security
 ```
-
-> **DevRel · AI Agents · Open Source · Security** — I build bridges between builders and technology. Obsessed with LLMs, agentic AI, MCP tooling, and **AI security**. Founder energy on [**RuntimeWall**](https://github.com/RuntimeWall/RuntimeWall). Contributor to [**Promptfoo**](https://github.com/promptfoo/promptfoo) & **Thyris Safe Zone**.
 
 ---
 
@@ -189,7 +187,6 @@ DevRel · AI security · projects · consult
 <div align="center">
 
 [![Read all blogs](https://img.shields.io/badge/→_See_all_1000%2B_Blog_Posts-NeuralVerse-7c3aed?style=for-the-badge)](https://neural-verse-peach.vercel.app/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-archive-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Ayush7614)
 
 </div>
 
