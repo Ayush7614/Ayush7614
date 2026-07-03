@@ -2,14 +2,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=50&lines=Hey%2C+I'm+Ayush+Kumar+%F0%9F%91%8B;DevRel+%C2%B7+AI+Agents+%C2%B7+Open+Source+%C2%B7+Security;Building+RuntimeWall+%F0%9F%9B%A1%EF%B8%8F;1000%2B+Blog+Posts+%C2%B7+500K%2B+reads+%C2%B7+%E2%88%9E+caffeine;transmitting+from+the+lab%E2%80%A6"/>
 
-[![Portfolio](https://img.shields.io/badge/ayushbuilds.dev-0f0f23?style=for-the-badge&logo=vercel&logoColor=22d3ee)](https://ayushbuilds-dev.vercel.app/)
-[![NeuralVerse](https://img.shields.io/badge/NeuralVerse-blog-7c3aed?style=for-the-badge&logo=hashnode&logoColor=white)](https://neural-verse-peach.vercel.app/)
-[![Topmate](https://img.shields.io/badge/Book+1%3A1-Topmate-ff6b6b?style=for-the-badge&logo=googlemeet&logoColor=white)](https://topmate.io/ayush7)
-[![Email](https://img.shields.io/badge/ayushknj3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushknj3@gmail.com)
-
 <img src="https://komarev.com/ghpvc/?username=Ayush7614&label=profile+views&color=7c3aed&style=flat" alt="profile views"/>
 
 </div>
+
+[![ayushbuilds.dev](https://img.shields.io/badge/-ayushbuilds.dev-0f0f23?style=flat-square&logo=vercel&logoColor=22d3ee)](https://ayushbuilds-dev.vercel.app/)
+[![NeuralVerse](https://img.shields.io/badge/-NeuralVerse-555555?style=flat-square&logo=hashnode&logoColor=white)](https://neural-verse-peach.vercel.app/)
+[![Blog](https://img.shields.io/badge/-Blog-7c3aed?style=flat-square&logo=hashnode&logoColor=white)](https://neural-verse-peach.vercel.app/)
+[![Book+1:1](https://img.shields.io/badge/-Book+1%3A1-555555?style=flat-square&logo=googlemeet&logoColor=white)](https://topmate.io/ayush7)
+[![Topmate](https://img.shields.io/badge/-Topmate-ff6b6b?style=flat-square&logo=googlemeet&logoColor=white)](https://topmate.io/ayush7)
+[![Email](https://img.shields.io/badge/-ayushknj3@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushknj3@gmail.com)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -199,18 +201,6 @@ DevRel · AI security · projects · consult
 
 ---
 
-## 🧠 open source · where it matters
-
-<div align="center">
-
-[![RuntimeWall](https://img.shields.io/badge/RuntimeWall-Founder_%26_Contributor-0f0f23?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/RuntimeWall/RuntimeWall)
-[![Promptfoo](https://img.shields.io/badge/Promptfoo-Contributor-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/promptfoo/promptfoo)
-[![Thyris TSZ](https://img.shields.io/badge/Thyris_Safe_Zone-Contributor-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thyris-ai)
-
-</div>
-
----
-
 ## 💼 experience · shipped impact
 
 <details>
@@ -259,26 +249,6 @@ DevRel · community · full-stack · OSS — the long arc of shipping in public.
 </div>
 
 **Education:** B.Tech ECE · ABES Engineering College · GPA 7.7/10 · 2019–2023
-
----
-
-## 🛠️ stack · languages · tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,go,docker,kubernetes,aws,gcp,postgres,mongodb,git,linux&perline=8"/>
-
-<br/><br/>
-
-**TypeScript · React · Next.js · Node.js · Python · Go · Docker · K8s**
-
-<br/>
-
-**LLMs · RAG · Vector DBs · MCP · Promptfoo · Red Teaming · Guardrails**
-
-<br/><br/>
-
-</div>
 
 ---
 
