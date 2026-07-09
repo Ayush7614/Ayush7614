@@ -52,6 +52,10 @@
 - **[Inkbox](https://github.com/inkbox-ai/inkbox)** ![stars](https://img.shields.io/github/stars/inkbox-ai/inkbox?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Agent self-signup example
 - **[corsair](https://github.com/corsairdev/corsair)** ![stars](https://img.shields.io/github/stars/corsairdev/corsair?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — <add your contribution here>
 - **[pipelock](https://github.com/luckyPipewrench/pipelock)** ![stars](https://img.shields.io/github/stars/luckyPipewrench/pipelock?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — <add your contribution here>
+- **[agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)** ![stars](https://img.shields.io/github/stars/Asymptote-Labs/agent-beacon?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Splunk HEC and S3 upload GitHub Actions reference telemetry-forwarding workflows
+- **[maximem_synap_sdk](https://github.com/maximem-ai/maximem_synap_sdk)** ![stars](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Five new Synap framework integrations: DSPy, Smolagents, Camel-AI, Marvin, and Mirascope
+- **[next-openapi-gen](https://github.com/tazo90/next-openapi-gen)** ![stars](https://img.shields.io/github/stars/tazo90/next-openapi-gen?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Integration test suites asserting transport and CRUD routes in the Pages Router and TypeScript example apps
+- **[repowise](https://github.com/repowise-dev/repowise)** ![stars](https://img.shields.io/github/stars/repowise-dev/repowise?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — fetchAllPaginated API-client helper, CLI on-disk storage footprint in status, and shared UI byte/percent formatters
 
 ### Building
 
