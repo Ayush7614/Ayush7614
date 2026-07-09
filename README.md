@@ -40,7 +40,7 @@
 - **[EverOS](https://github.com/EverMind-AI/EverOS)** ![stars](https://img.shields.io/github/stars/EverMind-AI/EverOS?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Cursor agent hooks for local EverOS memory, foresight sender ToolCallRequest scan fix, local-first Markdown-native agent memory layer
 - **[Strix](https://github.com/usestrix/strix)** ![stars](https://img.shields.io/github/stars/usestrix/strix?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Five security skills: OAuth, AWS, prototype pollution, deserialization, Django
 - **[Rhesis](https://github.com/rhesis-ai/rhesis)** ![stars](https://img.shields.io/github/stars/rhesis-ai/rhesis?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Google ADK, Haystack & AutoGen auto-instrumentation, Penelope Target integrations, MCP tools (Linear, Azure DevOps, GitLab, Asana, Shortcut), LlamaIndex RAG & OpenAI/Anthropic telemetry examples
-- **[Compound Engineering Plugin](https://github.com/EveryInc/compound-engineering-plugin)** ![stars](https://badgen.net/github/stars/EveryInc/compound-engineering-plugin?label=stars&color=f2cc0c&icon=github) — Antigravity one-command plugin install from GitHub
+- **[Compound Engineering Plugin](https://github.com/EveryInc/compound-engineering-plugin)** ![stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Antigravity one-command plugin install from GitHub
 - **[Greplica](https://github.com/Autoloops/greplica)** ![stars](https://img.shields.io/github/stars/Autoloops/greplica?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Gemini CLI & Continue platform install support, persistent searchable engineering memory for AI coding agents
 - **[xberg](https://github.com/xberg-io/xberg)** ![stars](https://img.shields.io/github/stars/xberg-io/xberg?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — MCP HTTP transport client snippet, batch_extract_files Python docs
 - **[Kova](https://github.com/KovaMD/Kova)** ![stars](https://img.shields.io/github/stars/KovaMD/Kova?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Duplicate slide thumbnail menu, hide/show slide shortcut, Open Recent File menu, Table of Contents discoverability, PDF/Mermaid/keybinding/font test coverage
@@ -50,6 +50,8 @@
 - **[OpenTaint](https://github.com/seqra/opentaint)** ![stars](https://img.shields.io/github/stars/seqra/opentaint?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — README translations (Indonesian, Swedish, Hindi)
 - **[Taurent](https://github.com/racos-dev/taurent)** ![stars](https://img.shields.io/github/stars/racos-dev/taurent?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — torrentStatus utils test coverage, desktop "Add peers" panel
 - **[Inkbox](https://github.com/inkbox-ai/inkbox)** ![stars](https://img.shields.io/github/stars/inkbox-ai/inkbox?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Agent self-signup example
+- **[corsair](https://github.com/corsairdev/corsair)** ![stars](https://img.shields.io/github/stars/corsairdev/corsair?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — <add your contribution here>
+- **[pipelock](https://github.com/luckyPipewrench/pipelock)** ![stars](https://img.shields.io/github/stars/luckyPipewrench/pipelock?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — <add your contribution here>
 
 ### Building
 
