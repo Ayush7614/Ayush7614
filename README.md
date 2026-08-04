@@ -190,7 +190,7 @@ $ sudo apt-get install more_ideas
 <div align="center">
 
 <a href="https://github.com/Ayush7614">
-  <img height="165em" src="https://streak-stats.demolab.com/?user=Ayush7614&theme=tokyonight&hide_border=true&background=0F0F23&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush7614&theme=tokyonight&hide_border=true&background=0F0F23&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE"/>
 </a>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush7614&bg_color=0f0f23&color=7c3aed&line=22d3ee&point=22d3ee&area=true&hide_border=true"/>
