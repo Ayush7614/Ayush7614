@@ -6,6 +6,20 @@
 
 </div>
 
+```ansi
+[1;36m░▒▓█▀▄ █▀█ █░█ █   █ ██▀ █▀▀ █▀█ █▀▄ █▀▀ █▀█  ▁ ▂ ▄ ▅ ▆ ▇ █ [0m
+[1;35m░▒▓█▄▀ █▄█ ▀▄▀ █▄▄ █ ▄█  ██▄ █▄█ █▄▀ ██▄ █▀▄  █ ▇ ▆ ▅ ▄ ▂ ▁ [0m
+```
+
+```bash
+> boot sequence initiated .......... [ OK ]
+> loading  devrel.agents ........... [ OK ]
+> mounting  /home/ayush/runtimewall . [ OK ]
+> syncing   open_source_grid ....... [ OK ]
+> injecting neon + caffeine ........ [ OK ]
+> signal locked :: 05-FF-22-AYUSH .... [ LIVE ]
+```
+
 [![ayushbuilds.dev](https://img.shields.io/badge/-ayushbuilds.dev-0f0f23?style=flat-square&logo=vercel&logoColor=22d3ee)](https://ayushbuilds-dev.vercel.app/)
 [![Blog](https://img.shields.io/badge/-Blog-7c3aed?style=flat-square&logo=hashnode&logoColor=white)](https://neural-verse-peach.vercel.app/)
 [![dev.to](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/ayush7614)
@@ -130,11 +144,17 @@
 ```bash
 $ whoami
 > ayush.kumar · Senior DevRel · AI, AI Security, Cybersecurity & Cloud Engineer
+> alias: "The Open-Source Signal Booster" 📡
 
 $ cat ./now.txt
 > Building RuntimeWall — secure runtime for autonomous AI agents
 > Writing 1000+ blog posts on NeuralVerse · mentoring 20000+ OSS builders
 > 4+ yrs DevRel · 2+ yrs deep in LLMs, agents & AI security
+> 52 OSS repos shipped upstream in Jul–Aug 2026 🚀
+
+$ sudo apt-get install more_ideas
+> Reading package lists... done
+> more_ideas is already the newest version (you).
 ```
 
 ---
@@ -148,6 +168,13 @@ $ cat ./now.txt
 | **1000+** Blog Posts | **100K+** words shipped |
 | **500K+** reads | **∞** caffeine units |
 | **1000+** technical posts authored | **20000+** OSS contributors mentored |
+
+<br/>
+
+<a href="https://github.com/Ayush7614">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush7614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=7c3aed&icon_color=22d3ee&text_color=c9d1d9&ring_color=22d3ee"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush7614&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=7c3aed&text_color=22d3ee&card_width=320"/>
+</a>
 
 <br/>
 
@@ -179,6 +206,16 @@ $ cat ./now.txt
 <br/>
 
 <img src="https://raw.githubusercontent.com/Ayush7614/Ayush7614/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 trophy wall · ranked by the verse
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayush7614&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=12&margin-h=12"/>
 
 </div>
 
@@ -318,7 +355,17 @@ DevRel · community · full-stack · OSS — the long arc of shipping in public.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,12,20&height=100&section=footer"/>
+```ansi
+[1;36m┌──────────────────────────────────────────────┐[0m
+[1;35m│  NEUROVERSE SYSTEM MONITOR  ·  v2.0.live     │[0m
+[1;36m├──────────────────────────────────────────────┤[0m
+[0;37m│  uptime      │  ∞ · always transmitting       │[0m
+│  cores       │  2 brains · 4 hands · 1 coffee   │[0m
+│  network     │  devrel.ai · opensource.grid     │[0m
+│  threat lvl  │  elevated (adversarial agents)   │[0m
+│  status      │  ship_it() ▓▓▓▓▓▓▓▓▓▓ 100% ✅    │[0m
+[1;35m└──────────────────────────────────────────────┘[0m
+```
 
 **if you vibe with the verse, fuel the transmission** ☕
 
