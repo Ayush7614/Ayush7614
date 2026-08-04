@@ -56,9 +56,6 @@
 - **[maximem_synap_sdk](https://github.com/maximem-ai/maximem_synap_sdk)** ![stars](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Five new Synap framework integrations: DSPy, Smolagents, Camel-AI, Marvin, and Mirascope
 - **[next-openapi-gen](https://github.com/tazo90/next-openapi-gen)** ![stars](https://img.shields.io/github/stars/tazo90/next-openapi-gen?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — Integration test suites asserting transport and CRUD routes in the Pages Router and TypeScript example apps
 - **[repowise](https://github.com/repowise-dev/repowise)** ![stars](https://img.shields.io/github/stars/repowise-dev/repowise?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — fetchAllPaginated API-client helper, CLI on-disk storage footprint in status, and shared UI byte/percent formatters
-
-#### New projects · Jul–Aug 2026
-
 - **[cuda-oxide](https://github.com/NVlabs/cuda-oxide)** ![stars](https://img.shields.io/github/stars/NVlabs/cuda-oxide?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — MIR importer constants & thin pointers, range-for unroll guards, cargo-oxide update/doctor/scaffold, safe PreparedLaunch (cluster + cooperative kernels), book docs
 - **[cynative](https://github.com/cynative/cynative)** ![stars](https://img.shields.io/github/stars/cynative/cynative?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — cynative doctor + live-LLM probe, bash/zsh/fish/powershell completions, Go fuzz targets, CodeQL & publish-gate CI hardening
 - **[GeoLibre](https://github.com/opengeos/GeoLibre)** ![stars](https://img.shields.io/github/stars/opengeos/GeoLibre?style=flat-square&label=stars&color=F2CC0C&labelColor=555555) — sidecar security (SQL/vector error leaks, ML proxy caps, Sedona SQL timeouts), collab comment rate-limiting, edge proxy redirect hardening
