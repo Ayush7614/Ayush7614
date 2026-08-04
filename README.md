@@ -171,13 +171,6 @@ $ sudo apt-get install more_ideas
 
 <br/>
 
-<a href="https://github.com/Ayush7614">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush7614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=7c3aed&icon_color=22d3ee&text_color=c9d1d9&ring_color=22d3ee"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush7614&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=7c3aed&text_color=22d3ee&card_width=320"/>
-</a>
-
-<br/>
-
 <a href="https://wakatime.com/@4c6f0e39-a5c7-4d54-b0fc-23f3757679eb">
   <img src="https://wakatime.com/badge/user/4c6f0e39-a5c7-4d54-b0fc-23f3757679eb.svg?style=flat-square" alt="WakaTime Code Time"/>
 </a>
@@ -197,7 +190,6 @@ $ sudo apt-get install more_ideas
 <div align="center">
 
 <a href="https://github.com/Ayush7614">
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush7614&theme=tokyonight"/>
   <img height="165em" src="https://streak-stats.demolab.com/?user=Ayush7614&theme=tokyonight&hide_border=true&background=0F0F23&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE"/>
 </a>
 
@@ -206,16 +198,6 @@ $ sudo apt-get install more_ideas
 <br/>
 
 <img src="https://raw.githubusercontent.com/Ayush7614/Ayush7614/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🏆 trophy wall · ranked by the verse
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayush7614&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=12&margin-h=12"/>
 
 </div>
 
